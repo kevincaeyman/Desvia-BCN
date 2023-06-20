@@ -9,7 +9,7 @@
 .select{
     border-color: #23717E;
     border-radius: 25px;
-    max-width: 100px;
+    max-width: 150px;
     max-height: 30px;
     background-color: transparent;
     margin-left: 40px;
@@ -19,6 +19,24 @@
     margin-left: 138px;
 }
 
+.filters-names{
+  border: 2px solid black;
+  border-radius: 10px;
+  color:black;
+  padding:5px;
+  margin: 10px; 
+}
+
+.filters-names:hover{
+  cursor: pointer;
+}
+
+.bottom_search{
+  display: flex;
+  align-items: left;
+  justify-content:left;
+  flex-direction: column;
+}
 
 @media (max-width: 768px) {
     .flex-container {

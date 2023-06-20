@@ -80,7 +80,7 @@ const Filters = () => {
       <div>
         {districtData &&
           districtData.slice(0, 10).map((item, index) => (
-            <div key={index}>
+            <div className="filters-names" key={index}>
               <p>{item.name}</p>
             </div>
           ))}
