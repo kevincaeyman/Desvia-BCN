@@ -22,11 +22,8 @@ function App() {
       <Carousel />
       <Search />
       <Filters />
-
-      <MotoSharing />
-
       <Mobility />
-
+      <MotoSharing />
       <Footer />
     </>
   );

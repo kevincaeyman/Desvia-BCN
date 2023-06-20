@@ -13,3 +13,17 @@
 h2{
     padding-top: 50px;
 }
+
+.description-mobility{
+    position: relative;
+    margin-right: 20px;
+    margin-top: -10px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 22px;
+    line-height: 38px;
+    color: #23717E;
+    margin-bottom: 60px;
+    z-index:1;
+}

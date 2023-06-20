@@ -21,7 +21,7 @@ export const MotoSharing = () => {
             <img src={yego} alt='Yego' />
           </a>
         </div>
-        <div className='circle'>
+        <div className='circle circleimg'>
           <a
             href='https://www.acciona.com/es/?utm_medium=cpc&utm_medium=cpc&utm_source=google&utm_campaign=12975152551&utm_term=acciona_b'
             target='_blank'
@@ -30,7 +30,7 @@ export const MotoSharing = () => {
             <img src={acciona} alt='Yego' />
           </a>
         </div>
-        <div className='circle'>
+        <div className='circle circleimg'>
           <a
             href='https://cooltra.com/es/alquiler-por-minutos-horas/'
             target='_blank'
