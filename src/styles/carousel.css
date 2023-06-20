@@ -1,0 +1,9 @@
+.carousel_container{
+    display: flex;
+    justify-content: center;
+    margin-left: 138px;
+}
+.carousel-item{
+    max-width: 600px;
+    background-color: #F7F1E5;
+}
