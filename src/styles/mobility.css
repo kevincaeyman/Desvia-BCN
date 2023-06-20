@@ -2,14 +2,29 @@
     display: flex;
 }
 .tgrup{
-    max-width: 500px;
+    max-width: 400px;
     padding-left: 138px;
     padding-right: 20px;
     padding-bottom: 20px;
+    filter: drop-shadow(0px 0px 3px #7e7e7e);
 }
 .mobility_container{
     color: #23717E;
 }
 h2{
     padding-top: 50px;
+}
+
+.description-mobility{
+    position: relative;
+    margin-right: 20px;
+    margin-top: -10px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 22px;
+    line-height: 38px;
+    color: #23717E;
+    margin-bottom: 60px;
+    z-index:1;
 }

@@ -48,5 +48,16 @@
   top: 200px;
   }
 
- 
+  .bg-model{
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    z-index:0;
+  }
 
+  .rectangle{
+    background-color: #F7F1E5;
+  width: 100vw;
+    height: 150px;
+    z-index: 1;
+  }
