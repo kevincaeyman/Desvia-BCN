@@ -31,11 +31,6 @@ const Carousel = () => {
           </div>
         </LazyLoad>
         <LazyLoad>
-          <div className='carousel-item'>
-            <BarChart />
-          </div>
-        </LazyLoad>
-        <LazyLoad>
           <div className='carousel-item item-mapa'>
             <p className='title-mapa'>
               Mapa de calor de puntos más concurridos en Bcn
