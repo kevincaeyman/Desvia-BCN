@@ -1,29 +1,26 @@
 import React from "react";
+import "../styles/barchart.css";
 
 export const Navbar = () => {
   return (
     <div>
       <div className='navbar bg-base-100'>
         <div className='flex-1'>
-          <a className='btn btn-ghost normal-case text-xl'>daisyUI</a>
+          <p className='btn btn-ghost normal-case text-xl logo'>Des/vía</p>
         </div>
         <div className='flex-none'>
           <ul className='menu menu-horizontal px-1'>
             <li>
-              <a>Link</a>
+              <a className='nav_text'>Information</a>
             </li>
             <li>
-              <details>
-                <summary>Parent</summary>
-                <ul className='p-2 bg-base-100'>
-                  <li>
-                    <a>Link 1</a>
-                  </li>
-                  <li>
-                    <a>Link 2</a>
-                  </li>
-                </ul>
-              </details>
+              <a className='nav_text'>Discover</a>
+            </li>
+            <li>
+              <a className='nav_text'>Mobility</a>
+            </li>
+            <li>
+              <a className='nav_text'>About us</a>
             </li>
           </ul>
         </div>

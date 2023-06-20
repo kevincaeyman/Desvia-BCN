@@ -1,0 +1,36 @@
+.input{
+    border-color: #23717E;
+    border-radius: 25px;
+    min-height: 40px;
+    min-width: 400px;
+    background-color: transparent;
+    margin-left: 138px;
+}
+
+.filter_btn{
+    color: white;
+    border-radius: 25px;
+    max-height: 30px !important;
+    background-color: #23717E;
+    margin-left: 40px;
+}
+
+.select{
+    border-color: #23717E;
+    border-radius: 25px;
+    max-width: 100px;
+    max-height: 30px;
+    background-color: transparent;
+    margin-left: 40px;
+    color:#23717E;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+
+@media (max-width: 768px) {
+    .flex-container {
+      flex-direction: column;
+    }
+  }
+  
