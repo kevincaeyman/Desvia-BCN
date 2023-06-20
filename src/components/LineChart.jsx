@@ -5,39 +5,28 @@ import {
   CategoryScale,
   LinearScale,
   PointElement,
-  BarElement,
+  LineElement,
   Title,
   Tooltip,
   Legend,
   Filler,
 } from "chart.js";
-import { Bar } from "react-chartjs-2";
+import { Line } from "react-chartjs-2";
 import Carousel from "./Carousel";
 
 ChartJS.register(
   CategoryScale,
   LinearScale,
   PointElement,
-  BarElement,
+  LineElement,
   Title,
   Tooltip,
   Legend,
   Filler
 );
 
-const scores = [605, 4453, 1113, 257, 491, 1045, 215, 29, 76, 1114];
-const labels = [
-  "Ciutat Vella",
-  "Eixample",
-  "Sants-Montjuïc",
-  "Les Corts",
-  "Sarrià-Sant Gervasi",
-  "Gràcia",
-  "Horta-Guinardó",
-  "Nou Barris",
-  "Sant Andreu",
-  "Sant Martí",
-];
+const scores = [59.3, 27.8, 34.7];
+const labels = [2019, 2020, 2021];
 
 const options = {
   fill: true,
@@ -54,25 +43,14 @@ const options = {
     },
   },
 };
-const colors = [
-  "#FF6384",
-  "#36A2EB",
-  "#FFCE56",
-  "#4BC0C0",
-  "#9966FF",
-  "#FF9F40",
-  "#FFCD56",
-  "#FF6384",
-  "#36A2EB",
-  "#FFCE56",
-];
+const colors = ["#FF6384", "#36A2EB", "#4BC0C0"];
 
 export default function BarChart() {
   const data = useMemo(function () {
     return {
       datasets: [
         {
-          label: "Viviendas de uso turístico",
+          label: "Ocupaciones hoteles",
           tension: 0.3,
           data: scores,
           backgroundColor: colors,
@@ -83,7 +61,7 @@ export default function BarChart() {
   }, []);
   return (
     <div className='app barchart'>
-      <Bar data={data} options={options} />
+      <Line data={data} options={options} />
     </div>
   );
 }

@@ -1,0 +1,31 @@
+.scroll-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #23717E;;
+    color: white;
+    border-radius: 50%;
+    padding: 10px;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+
+  .navbar-container {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 2;
+  }
+  
+  @media (max-width: 768px) {
+    .scroll-to-top {
+  width: 60px;
+  height: 60px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  font-size: 25px;
+    }
+  }
+
+  

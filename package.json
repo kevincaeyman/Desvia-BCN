@@ -14,7 +14,9 @@
     "@pdftron/webviewer-react-toolkit": "^0.6.0",
     "@react-firebase/auth": "^0.2.10",
     "@react-firebase/database": "^0.2.10",
+
     "@react-google-maps/api": "^2.18.1",
+
     "@react-three/drei": "^9.77.0",
     "@react-three/fiber": "^8.13.3",
     "animate.css": "^4.1.1",
@@ -26,6 +28,7 @@
     "react-chartjs-2": "^5.2.0",
     "react-dom": "^18.2.0",
     "react-firebase-hooks": "^5.1.1",
+    "react-lazy-load": "^4.0.1",
     "react-modal": "^3.16.1",
     "react-native-elements": "^3.4.3",
     "react-pdf": "^6.2.2",
