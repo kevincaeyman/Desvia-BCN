@@ -1,6 +1,8 @@
 import React from "react";
 import "../styles/motosharing.css";
 import yego from "../assets/yego.png";
+import ecooltra from "../assets/ecooltra.jpeg";
+import acciona from "../assets/acciona.png";
 
 export const MotoSharing = () => {
   return (
@@ -12,7 +14,7 @@ export const MotoSharing = () => {
       <div className='container_sharing'>
         <div className='circle'>
           <a
-            href='https://www.pagina1.com'
+            href='https://landing.rideyego.com/'
             target='_blank'
             rel='noopener noreferrer'
           >
@@ -21,20 +23,20 @@ export const MotoSharing = () => {
         </div>
         <div className='circle'>
           <a
-            href='https://www.pagina1.com'
+            href='https://www.acciona.com/es/?utm_medium=cpc&utm_medium=cpc&utm_source=google&utm_campaign=12975152551&utm_term=acciona_b'
             target='_blank'
             rel='noopener noreferrer'
           >
-            <img src='../assets/yego.png' alt='Yego' />
+            <img src={acciona} alt='Yego' />
           </a>
         </div>
         <div className='circle'>
           <a
-            href='https://www.pagina1.com'
+            href='https://cooltra.com/es/alquiler-por-minutos-horas/'
             target='_blank'
             rel='noopener noreferrer'
           >
-            <img src='../assets/yego.png' alt='Yego' />
+            <img src={ecooltra} alt='Yego' />
           </a>
         </div>
       </div>

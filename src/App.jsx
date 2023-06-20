@@ -2,8 +2,6 @@ import React from "react";
 import "./styles/index.css";
 import { Header } from "./components/Header";
 
-
-
 import { Navbar } from "./components/Navbar";
 import Carousel from "./components/Carousel";
 import { Footer } from "./components/Footer";
@@ -14,7 +12,6 @@ import Filters from "./components/Filters";
 import { MotoSharing } from "./components/MotoSharing";
 
 import { Mobility } from "./components/Mobility";
-
 
 function App() {
   return (
