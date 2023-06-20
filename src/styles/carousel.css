@@ -1,17 +1,14 @@
 
 .carousel-item{
-
-
     border-radius: 15px;
-    min-width: 600px;
-    min-height: 400px;
+    min-width: 800px;
+    min-height: 600px;
 }
 .carousel{
     margin-top: -50px;
     margin-left: 130px;
     min-width: 80vw;
     min-height: 400px;
-    margin-bottom: 50px;
 }
 
 .item-mapa{
@@ -25,4 +22,15 @@
     color:#23717E;
     margin-top: 10px;
     margin-left: 15px;
+}
+
+.arrow-scroll{
+    color: #23717E;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+.horizontal{
+    display: flex;
+    margin-bottom: -90px;
 }
