@@ -9,7 +9,9 @@ export const MotoSharing = () => {
     <div>
       <h2>Moto Sharing</h2>
       <p className='description'>
-        Desvíate y encuentra nuevos puntos de interés en la ciudad de Barcelona
+        Experience convenient and eco-friendly mobility with our shared electric
+        scooters. Explore Barcelona's vibrant streets and reach your
+        destinations with ease.{" "}
       </p>
       <div className='container_sharing'>
         <div className='circle'>

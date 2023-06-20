@@ -25,5 +25,7 @@ h2{
     line-height: 38px;
     color: #23717E;
     margin-bottom: 60px;
+line-height: 29px;
     z-index:1;
+    max-width: 500px;
 }
