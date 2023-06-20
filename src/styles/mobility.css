@@ -1,0 +1,15 @@
+.mobility_container{
+    display: flex;
+}
+.tgrup{
+    max-width: 500px;
+    padding-left: 138px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+.mobility_container{
+    color: #23717E;
+}
+h2{
+    padding-top: 50px;
+}
