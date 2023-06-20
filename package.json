@@ -1,33 +1,52 @@
 {
-  "name": "desvia",
+  "name": "projecte-final",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
   "dependencies": {
+
     "@react-three/drei": "^9.77.0",
     "@react-three/fiber": "^8.13.3",
+
+    "@auth0/auth0-react": "^2.0.0",
+    "@pdftron/webviewer": "^8.12.0",
+    "@pdftron/webviewer-react-toolkit": "^0.6.0",
+    "@react-firebase/auth": "^0.2.10",
+    "@react-firebase/database": "^0.2.10",
+
     "animate.css": "^4.1.1",
+    "axios": "^1.3.4",
+    "chart.js": "^4.3.0",
+    "daisyui": "^2.51.3",
+    "firebase": "^9.17.2",
     "react": "^18.2.0",
+    "react-chartjs-2": "^5.2.0",
     "react-dom": "^18.2.0",
-    "react-icons": "^4.9.0",
-    "three": "^0.153.0"
+    "react-firebase-hooks": "^5.1.1",
+    "react-modal": "^3.16.1",
+    "react-native-elements": "^3.4.3",
+    "react-pdf": "^6.2.2",
+    "react-router-dom": "^6.8.1",
+    "react-select": "^5.7.0",
+    "react-slick": "^0.29.0",
+    "reshake": "^1.2.4",
+    "slick-carousel": "^1.8.1",
+    "sweetalert2": "^11.7.3",
+    "uuid": "^9.0.0"
   },
   "devDependencies": {
-    "@types/react": "^18.0.37",
-    "@types/react-dom": "^18.0.11",
-    "@vitejs/plugin-react": "^4.0.0",
-    "daisyui": "^3.1.1",
-    "eslint": "^8.38.0",
-    "eslint-plugin-react": "^7.32.2",
-    "eslint-plugin-react-hooks": "^4.6.0",
-    "eslint-plugin-react-refresh": "^0.3.4",
-    "tailwindcss": "^3.3.2",
+    "@types/react": "^18.0.27",
+    "@types/react-dom": "^18.0.10",
+    "@vitejs/plugin-react": "^3.1.0",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "react-icons": "^4.8.0",
+    "tailwindcss": "^3.2.7",
     "vite": "^4.3.9"
   }
 }

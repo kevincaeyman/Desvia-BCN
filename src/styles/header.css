@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Marcellus&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+.slash{
+    max-width: 90px;
+    margin-left: 60px;
+  }
+  
+  .description{
+  position: relative;
+  margin-left: 138px;
+  margin-top: -10px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 22px;
+  line-height: 38px;
+  color: #23717E;
+  margin-bottom: 60px;
+  }
+  
+  .header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+    }
+  
+  .header-content {
+    display: flex;
+    align-items: center;
+    margin-bottom: 70px;
+  }
+  
+  .header-description{
+  width: 568px;
+  height: 113px;
+  left: 355px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 32px;
+  line-height: 38px;
+  text-align: center;
+  color: #2D8897;
+  top: 200px;
+  }
+
+ 
+
