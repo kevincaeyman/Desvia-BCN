@@ -4,7 +4,7 @@ import "../styles/aboutus.css";
 
 export const AboutUs = () => {
   return (
-    <>
+    <div id='about'>
       <h2>About Us</h2>
       <div className='flex flex-col md:flex-row'>
         <div className='md:w-1/2'>
@@ -27,6 +27,6 @@ export const AboutUs = () => {
           </p>
         </div>
       </div>
-    </>
+    </div>
   );
 };

@@ -4,7 +4,7 @@ import "../styles/mobility.css";
 
 export const Mobility = () => {
   return (
-    <div>
+    <div id='mobility'>
       <h2>Mobility</h2>
       <p className='description'>
         Discover valuable information on public transportation passes and

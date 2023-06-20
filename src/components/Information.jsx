@@ -2,7 +2,7 @@ import React from "react";
 
 export const Information = () => {
   return (
-    <div>
+    <div id='information'>
       <h2>Information</h2>
       <p className='description'>
         Explore the tourist reality of Barcelona through our informative charts:

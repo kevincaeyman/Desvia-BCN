@@ -2,7 +2,7 @@ import React from "react";
 
 export const Search = () => {
   return (
-    <div>
+    <div id='discover'>
       <h2>Discover alternative places</h2>
       <p className='description'>
         Unveil hidden gems as you navigate through Barcelona's districts.

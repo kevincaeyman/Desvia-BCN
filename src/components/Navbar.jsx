@@ -2,6 +2,13 @@ import React from "react";
 import "../styles/barchart.css";
 
 export const Navbar = () => {
+  const handleNavLinkClick = (sectionId) => {
+    const section = document.getElementById(sectionId);
+    if (section) {
+      section.scrollIntoView({ behavior: "smooth" });
+    }
+  };
+
   return (
     <div>
       <div className='navbar bg-base-100'>
@@ -11,16 +18,36 @@ export const Navbar = () => {
         <div className='flex-none'>
           <ul className='menu menu-horizontal px-1'>
             <li>
-              <a className='nav_text'>Information</a>
+              <a
+                className='nav_text'
+                onClick={() => handleNavLinkClick("information")}
+              >
+                Information
+              </a>
             </li>
             <li>
-              <a className='nav_text'>Discover</a>
+              <a
+                className='nav_text'
+                onClick={() => handleNavLinkClick("discover")}
+              >
+                Discover
+              </a>
             </li>
             <li>
-              <a className='nav_text'>Mobility</a>
+              <a
+                className='nav_text'
+                onClick={() => handleNavLinkClick("mobility")}
+              >
+                Mobility
+              </a>
             </li>
             <li>
-              <a className='nav_text'>About us</a>
+              <a
+                className='nav_text'
+                onClick={() => handleNavLinkClick("about")}
+              >
+                About us
+              </a>
             </li>
           </ul>
         </div>
