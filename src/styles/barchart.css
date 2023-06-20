@@ -1,7 +1,11 @@
 .barchart{
-    max-width: 600px;
-    margin-left: 140px;
-    margin-bottom: 80px;
+  width: 550px;
+  margin-left: 12px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
   }
 
  

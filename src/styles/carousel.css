@@ -1,9 +1,15 @@
-.carousel_container{
-    display: flex;
-    justify-content: center;
-    margin-left: 138px;
-}
+
 .carousel-item{
-    max-width: 600px;
-    background-color: #F7F1E5;
+
+    background-color: white;
+    border-radius: 15px;
+    min-width: 600px;
+    min-height: 400px;
+}
+.carousel{
+    margin-top: -50px;
+    margin-left: 130px;
+    min-width: 80vw;
+    min-height: 400px;
+    margin-bottom: 50px;
 }

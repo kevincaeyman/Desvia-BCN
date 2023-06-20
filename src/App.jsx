@@ -5,12 +5,13 @@ import { Header } from "./components/Header";
 import { FiberContainer } from "./components/FiberContainer";
 
 import { Navbar } from "./components/Navbar";
-import Carousel from "./components/Carousel"
+import Carousel from "./components/Carousel";
 import { Footer } from "./components/Footer";
 import { Information } from "./components/Information";
 import BarChart from "./components/BarChart";
 import { Search } from "./components/Search";
 import Filters from "./components/Filters";
+import { MotoSharing } from "./components/MotoSharing";
 
 
 function App() {
@@ -30,11 +31,11 @@ function App() {
 
       <Navbar />
       <Header />
-      <Carousel />
       <Information />
-      <BarChart />
+      <Carousel />
       <Search />
       <Filters />
+      <MotoSharing />
       <Footer />
 
     </>
