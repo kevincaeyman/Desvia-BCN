@@ -5,6 +5,8 @@ import { Navbar } from "./components/Navbar";
 import { Footer } from "./components/Footer";
 import { Information } from "./components/Information";
 import BarChart from "./components/BarChart";
+import { Search } from "./components/Search";
+import Filters from "./components/Filters";
 
 function App() {
   return (
@@ -13,6 +15,8 @@ function App() {
       <Header />
       <Information />
       <BarChart />
+      <Search />
+      <Filters />
       <Footer />
     </>
   );
