@@ -8,4 +8,18 @@
   align-items: center;
   }
 
+  @media only screen 
+  and (device-width: 390px) 
+  and (device-height: 844px) 
+  and (-webkit-device-pixel-ratio: 3) {
+    .barchart{
+      width: 550px;
+      margin-left: 12px;
+      margin-top: 30px;
+      margin-bottom: 10px;
+      justify-content: center;
+      display: flex;
+      align-items: center;
+      }
+}
  
