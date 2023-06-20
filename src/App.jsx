@@ -8,6 +8,7 @@ import { Information } from "./components/Information";
 import BarChart from "./components/BarChart";
 import { Search } from "./components/Search";
 import Filters from "./components/Filters";
+import { Mobility } from "./components/Mobility";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       <BarChart />
       <Search />
       <Filters />
+      <Mobility />
       <Footer />
     </>
   );
