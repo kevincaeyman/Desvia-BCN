@@ -1,15 +1,13 @@
 import React from "react";
 import "./styles/index.css";
 import { Header } from "./components/Header";
+import { Navbar } from "./components/Navbar";
 
 function App() {
   return (
     <>
+      <Navbar />
       <Header />
-      <h2>Hola</h2>
-      <p className='description'>
-        Desvíate y encuentra nuevos puntos de interés en la ciudad de Barcelona
-      </p>
     </>
   );
 }
