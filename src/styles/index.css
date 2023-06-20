@@ -69,3 +69,12 @@ line-height: 100px;
 color: #2D8897;
 }
 
+.nav_text{
+  color:#23717E
+}
+
+.barchart{
+  max-width: 600px;
+  margin-left: 140px;
+  margin-bottom: 30px;
+}

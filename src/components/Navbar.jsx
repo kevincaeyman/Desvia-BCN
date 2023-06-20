@@ -10,16 +10,16 @@ export const Navbar = () => {
         <div className='flex-none'>
           <ul className='menu menu-horizontal px-1'>
             <li>
-              <a>Information</a>
+              <a className='nav_text'>Information</a>
             </li>
             <li>
-              <a>Discover</a>
+              <a className='nav_text'>Discover</a>
             </li>
             <li>
-              <a>Mobility</a>
+              <a className='nav_text'>Mobility</a>
             </li>
             <li>
-              <a>About us</a>
+              <a className='nav_text'>About us</a>
             </li>
           </ul>
         </div>
