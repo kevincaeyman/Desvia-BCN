@@ -1,13 +1,21 @@
 import React from "react";
 import "./styles/index.css";
+import { Header } from "./components/Header";
+import { FiberContainer } from "./components/FiberContainer";
 
 function App() {
   return (
     <>
-      <h2>Hola</h2>
-      <p className='description'>
-        Desvíate y encuentra nuevos puntos de interés en la ciudad de Barcelona
-      </p>
+      <Header/>
+      <div className="bg-model">
+        <FiberContainer />
+      </div>
+      <div className="test">
+
+      </div>
+      <div className="test1">
+
+      </div>
     </>
   );
 }

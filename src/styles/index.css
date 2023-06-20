@@ -1,7 +1,5 @@
-
-
-@import url('https://fonts.googleapis.com/css2?family=Marcellus&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Marcellus&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap");
 
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
@@ -17,8 +15,6 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
-
-
 }
 
 a {
@@ -31,69 +27,85 @@ a:hover {
 }
 
 body {
-  background-color: #F7F1E5 ;
+  background-color: #f7f1e5;
   margin: 0;
   display: flex;
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
 }
+h1 {
+  width: 593px;
+  height: 113px;
+  left: 346px;
+  top: 303px;
+
+  font-family: "Marcellus";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 150px;
+  line-height: 188px;
+  text-align: center;
+
+  color: #23717e;
+}
 
 h2 {
-position: relative;
-left: 138px;
-
-font-family: 'Marcellus';
-font-style: normal;
-font-weight: 400;
-font-size: 80px;
-line-height: 100px;
-
-color: #2D8897;
-}
-
-.description{
   position: relative;
-left: 138px;
+  left: 138px;
 
-margin-top: -70px;
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 300;
-font-size: 28px;
-line-height: 38px;
+  font-family: "Marcellus";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 80px;
+  line-height: 100px;
 
-color: #23717E;
+  color: #2d8897;
 }
 
-button {
-  border-radius: 8px;
-  border: 1px solid transparent;
-  padding: 0.6em 1.2em;
-  font-size: 1em;
-  font-weight: 500;
-  font-family: inherit;
-  background-color: #1a1a1a;
-  cursor: pointer;
-  transition: border-color 0.25s;
-}
-button:hover {
-  border-color: #646cff;
-}
-button:focus,
-button:focus-visible {
-  outline: 4px auto -webkit-focus-ring-color;
+.description {
+  position: relative;
+  left: 138px;
+
+  margin-top: -70px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 28px;
+  line-height: 38px;
+
+  color: #23717e;
 }
 
-@media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
-  }
-  a:hover {
-    color: #747bff;
-  }
-  button {
-    background-color: #f9f9f9;
-  }
+.header-description {
+  width: 568px;
+  height: 113px;
+  left: 355px;
+  top: 484px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 32px;
+  line-height: 38px;
+  text-align: center;
+
+  color: #2d8897;
+}
+
+.header {
+  position: absolute;
+  width: 593px;
+  height: 294px;
+  left: 346px;
+  top: 303px;
+  z-index: 1;
+}
+
+.bg-model {
+  position: absolute;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 0;
 }
