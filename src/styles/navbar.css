@@ -17,5 +17,15 @@
     z-index: 2;
   }
   
+  @media (max-width: 768px) {
+    .scroll-to-top {
+  width: 60px;
+  height: 60px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  font-size: 25px;
+    }
+  }
 
   
