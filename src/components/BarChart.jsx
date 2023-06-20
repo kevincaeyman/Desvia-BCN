@@ -12,6 +12,7 @@ import {
   Filler,
 } from "chart.js";
 import { Bar } from "react-chartjs-2";
+import Carousel from "./Carousel";
 
 ChartJS.register(
   CategoryScale,

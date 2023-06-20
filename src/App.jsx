@@ -2,7 +2,7 @@ import React from "react";
 import "./styles/index.css";
 import { Header } from "./components/Header";
 import { Navbar } from "./components/Navbar";
-import Carousel from "./components/Carousel"
+import Carousel from "./components/Carousel";
 import { Footer } from "./components/Footer";
 import { Information } from "./components/Information";
 import BarChart from "./components/BarChart";
@@ -14,9 +14,8 @@ function App() {
     <>
       <Navbar />
       <Header />
-      <Carousel />
       <Information />
-      <BarChart />
+      <Carousel />
       <Search />
       <Filters />
       <Footer />

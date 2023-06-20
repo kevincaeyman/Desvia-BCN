@@ -31,7 +31,10 @@ const Filters = () => {
   }); */
 
   return (
-    <div style={{ display: "flex", alignItems: "center" }}>
+    <div
+      className='bottom_search'
+      style={{ display: "flex", alignItems: "center" }}
+    >
       <div>
         <input
           className='input'
