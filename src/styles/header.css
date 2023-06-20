@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Marcellus&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
 
 .slash{
     max-width: 90px;
@@ -8,15 +7,14 @@
   
   .description{
   position: relative;
-  margin-left: 138px;
-  margin-top: -10px;
+  left: 138px;
+  margin-top: -70px;
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 300;
-  font-size: 22px;
+  font-size: 28px;
   line-height: 38px;
   color: #23717E;
-  margin-bottom: 60px;
   }
   
   .header{
@@ -31,7 +29,7 @@
   .header-content {
     display: flex;
     align-items: center;
-    margin-bottom: 70px;
+    margin-bottom: 50px;
   }
   
   .header-description{

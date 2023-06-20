@@ -7,7 +7,7 @@ export const Header = () => {
       <div className='header-content'>
         <h1>Des</h1>
         <h1 className='slash'>/</h1>
-        <h1 className='animate__slideInUp'>vía</h1>
+        <h1 className='animate__slideInUp'>via</h1>
       </div>
 
       <p className='header-description'>
