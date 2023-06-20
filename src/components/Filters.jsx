@@ -1,4 +1,5 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useCallback } from "react";
+import { GoogleMap, LoadScript, Marker } from "@react-google-maps/api";
 import dataSants from "../json/pointsOfInterest_Sants-Montjuic.json";
 import dataVella from "../json/pointsOfInterest_Ciutat Vella.json";
 import dataEixample from "../json/pointsOfInterest_Eixample.json";
@@ -14,6 +15,7 @@ import "../styles/filters.css";
 const Filters = () => {
   const [selectedDistrict, setSelectedDistrict] = useState("");
   const [districtData, setDistrictData] = useState(null);
+  const [mapCenter, setMapCenter] = useState({ lat: 41.3851, lng: 2.1734 });
 
   useEffect(() => {
     if (selectedDistrict) {
@@ -49,15 +51,20 @@ const Filters = () => {
     }
   };
 
+  const onFilterNameClick = useCallback((item) => {
+    const location = {
+      lat: item.longLongitude,
+      lng: item.longLatitude,
+    };
+    setMapCenter(location);
+  }, []);
+
   const handleDistrictChange = (event) => {
     setSelectedDistrict(event.target.value);
   };
 
   return (
-    <div
-      className="bottom_search"
-      style={{ display: "flex", alignItems: "center" }}
-    >
+    <div className="bottom_search">
       <select
         className="select select-primary w-full max-w-xs"
         onChange={handleDistrictChange}
@@ -77,13 +84,34 @@ const Filters = () => {
         <option>Sants</option>
         <option>Sarrià</option>
       </select>
-      <div>
-        {districtData &&
-          districtData.slice(0, 10).map((item, index) => (
-            <div className="filters-names" key={index}>
-              <p>{item.name}</p>
-            </div>
-          ))}
+      <div className="filter-map">
+        <div>
+          {districtData &&
+            districtData.slice(0, 10).map((item, index) => (
+              <div
+                className="filters-names"
+                key={index}
+                onClick={() => onFilterNameClick(item)}
+              >
+                <p>{item.name}</p>
+              </div>
+            ))}
+        </div>
+
+        <LoadScript googleMapsApiKey="AIzaSyCLpvGZk-C50KNIA9DuUC9PI2p-HvUEfdQ">
+          <GoogleMap
+            center={mapCenter}
+            zoom={14}
+            mapContainerStyle={{
+              width: "50%",
+              height: "500px",
+              borderRadius: "25px",
+              marginRight: "80px"
+            }}
+          >
+            <Marker position={mapCenter} key={JSON.stringify(mapCenter)} />
+          </GoogleMap>
+        </LoadScript>
       </div>
     </div>
   );
