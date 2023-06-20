@@ -1,4 +1,6 @@
-
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 @import url('https://fonts.googleapis.com/css2?family=Marcellus&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
@@ -9,8 +11,8 @@
   font-weight: 400;
 
   color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  color: #F7F1E5;
+  background-color: #F7F1E5;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -39,75 +41,28 @@ body {
   min-height: 100vh;
 }
 h1{
-
 width: 593px;
 height: 113px;
-left: 346px;
-top: 303px;
-
 font-family: 'Marcellus';
 font-style: normal;
 font-weight: 400;
 font-size: 150px;
 line-height: 188px;
 text-align: center;
-
 color: #23717E;
+max-width:190px ;
+text-align:center;
+justify-content: center;
 }
 
 h2 {
 position: relative;
 left: 138px;
-
 font-family: 'Marcellus';
 font-style: normal;
 font-weight: 400;
 font-size: 80px;
 line-height: 100px;
-
 color: #2D8897;
 }
-
-.description{
-  position: relative;
-left: 138px;
-
-margin-top: -70px;
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 300;
-font-size: 28px;
-line-height: 38px;
-
-color: #23717E;
-}
-
-.header-description{
-
-width: 568px;
-height: 113px;
-left: 355px;
-top: 484px;
-
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 300;
-font-size: 32px;
-line-height: 38px;
-text-align: center;
-
-color: #2D8897;
-
-}
-
-.header{
-  position: absolute;
-width: 593px;
-height: 294px;
-left: 346px;
-top: 303px;
-}
-
-
-
 
