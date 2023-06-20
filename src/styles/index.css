@@ -1,3 +1,8 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Marcellus&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -12,6 +17,8 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
+
+
 }
 
 a {
@@ -24,6 +31,7 @@ a:hover {
 }
 
 body {
+  background-color: #F7F1E5 ;
   margin: 0;
   display: flex;
   place-items: center;
@@ -31,9 +39,31 @@ body {
   min-height: 100vh;
 }
 
-h1 {
-  font-size: 3.2em;
-  line-height: 1.1;
+h2 {
+position: relative;
+left: 138px;
+
+font-family: 'Marcellus';
+font-style: normal;
+font-weight: 400;
+font-size: 80px;
+line-height: 100px;
+
+color: #2D8897;
+}
+
+.description{
+  position: relative;
+left: 138px;
+
+margin-top: -70px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 28px;
+line-height: 38px;
+
+color: #23717E;
 }
 
 button {
