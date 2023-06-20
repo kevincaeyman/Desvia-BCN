@@ -31,15 +31,10 @@ const Filters = () => {
   }); */
 
   return (
-    <div style={{ display: "flex", alignItems: "center" }}>
-      <div>
-        <input
-          className='input'
-          type='text'
-          placeholder='Search something...'
-        />
-        <button className='btn filter_btn'>Ordenar</button>
-      </div>
+    <div
+      className='bottom_search'
+      style={{ display: "flex", alignItems: "center" }}
+    >
       <select className='select select-primary w-full max-w-xs'>
         <option disabled selected>
           District
@@ -49,6 +44,9 @@ const Filters = () => {
         <option>Sant Gervasi</option>
         <option>Nou Barris</option>
       </select>
+      <div>
+        <button className='btn filter_btn'>Ordenar</button>
+      </div>
     </div>
   );
 };

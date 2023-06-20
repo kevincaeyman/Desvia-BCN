@@ -1,7 +1,3 @@
-
-@import url("https://fonts.googleapis.com/css2?family=Marcellus&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap");
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -9,7 +5,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Marcellus&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-
 
 :root {
   line-height: 1.5;
@@ -23,14 +18,11 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
-
-
 }
 
 .logo{
   font-family: 'Marcellus';
   color: #23717E;
-
 }
 
 a {
@@ -44,90 +36,13 @@ a:hover {
 }
 
 body {
-  background-color: #f7f1e5;
+  background-color: #F7F1E5 ;
   margin: 0;
   display: flex;
   place-items: center;
   max-width: 100vw;
   min-height: 100vh;
 }
-
-h1 {
-  width: 593px;
-  height: 113px;
-  left: 346px;
-  top: 303px;
-
-  font-family: "Marcellus";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 150px;
-  line-height: 188px;
-  text-align: center;
-
-  color: #23717e;
-}
-
-h2 {
-  position: relative;
-  left: 138px;
-
-  font-family: "Marcellus";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 80px;
-  line-height: 100px;
-
-  color: #2d8897;
-}
-
-.description {
-  position: relative;
-  left: 138px;
-
-  margin-top: -70px;
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 300;
-  font-size: 28px;
-  line-height: 38px;
-
-  color: #23717e;
-}
-
-.header-description {
-  width: 568px;
-  height: 113px;
-  left: 355px;
-  top: 484px;
-
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 300;
-  font-size: 32px;
-  line-height: 38px;
-  text-align: center;
-
-  color: #2d8897;
-}
-
-.header {
-  position: absolute;
-  width: 593px;
-  height: 294px;
-  left: 346px;
-  top: 303px;
-  z-index: 1;
-}
-
-.bg-model {
-  position: absolute;
-  top: 0;
-  width: 100vw;
-  height: 100vh;
-  z-index: 0;
-}
-
 h1{
 width: 593px;
 height: 113px;
@@ -137,7 +52,7 @@ font-weight: 400;
 font-size: 150px;
 line-height: 188px;
 text-align: center;
-color: #23717E;
+color: white;
 max-width:190px ;
 text-align:center;
 justify-content: center;
@@ -159,4 +74,6 @@ animation: slideInUp;
   color:#23717E
 }
 
-
+.bottom_search{
+  margin-bottom: 40px;
+}
