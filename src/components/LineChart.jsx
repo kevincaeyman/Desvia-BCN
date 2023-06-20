@@ -25,19 +25,8 @@ ChartJS.register(
   Filler
 );
 
-const scores = [605, 4453, 1113, 257, 491, 1045, 215, 29, 76, 1114];
-const labels = [
-  "Ciutat Vella",
-  "Eixample",
-  "Sants-Montjuïc",
-  "Les Corts",
-  "Sarrià-Sant Gervasi",
-  "Gràcia",
-  "Horta-Guinardó",
-  "Nou Barris",
-  "Sant Andreu",
-  "Sant Martí",
-];
+const scores = [1.94, 0, 0, 9.7];
+const labels = [2019, 2020, 2021, 2022];
 
 const options = {
   fill: true,
@@ -54,18 +43,7 @@ const options = {
     },
   },
 };
-const colors = [
-  "#FF6384",
-  "#36A2EB",
-  "#FFCE56",
-  "#4BC0C0",
-  "#9966FF",
-  "#FF9F40",
-  "#FFCD56",
-  "#FF6384",
-  "#36A2EB",
-  "#FFCE56",
-];
+const colors = ["#FF6384", "#36A2EB", "#FFCE56", "#4BC0C0"];
 
 export default function BarChart() {
   const data = useMemo(function () {

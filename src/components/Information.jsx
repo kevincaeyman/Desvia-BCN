@@ -5,7 +5,9 @@ export const Information = () => {
     <div>
       <h2>Information</h2>
       <p className='description'>
-        Desvíate y encuentra nuevos puntos de interés en la ciudad de Barcelona
+        Explora la realidad turística de Barcelona a través de nuestros gráficos
+        informativos: datos precisos y reveladores que te mostrarán el pulso del
+        turismo en la ciudad condal.
       </p>
     </div>
   );

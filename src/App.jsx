@@ -12,6 +12,7 @@ import Filters from "./components/Filters";
 import { MotoSharing } from "./components/MotoSharing";
 
 import { Mobility } from "./components/Mobility";
+import { AboutUs } from "./components/AboutUs";
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
       <Filters />
       <Mobility />
       <MotoSharing />
+      <AboutUs />
       <Footer />
     </>
   );
