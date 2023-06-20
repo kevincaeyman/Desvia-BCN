@@ -10,7 +10,11 @@ import { Footer } from "./components/Footer";
 import { Information } from "./components/Information";
 import { Search } from "./components/Search";
 import Filters from "./components/Filters";
+
 import { MotoSharing } from "./components/MotoSharing";
+
+import { Mobility } from "./components/Mobility";
+
 
 function App() {
   return (
@@ -21,7 +25,11 @@ function App() {
       <Carousel />
       <Search />
       <Filters />
+
       <MotoSharing />
+
+      <Mobility />
+
       <Footer />
     </>
   );
