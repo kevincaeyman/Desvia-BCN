@@ -24,7 +24,7 @@ export const Navbar = () => {
   };
 
   return (
-    <div>
+    <div className='navbar-container'>
       <div className='navbar bg-base-100'>
         <div className='flex-1'>
           <p className='btn btn-ghost normal-case text-xl logo'>Des/vía</p>
