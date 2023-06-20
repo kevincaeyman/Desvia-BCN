@@ -1,0 +1,13 @@
+.container_sharing {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .circle {
+    width:200px;
+    height:200px;
+    border-radius: 50%;
+    background-color: #8b8b8b;
+    margin: 10px;
+  }
+  

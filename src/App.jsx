@@ -8,6 +8,7 @@ import { Information } from "./components/Information";
 import BarChart from "./components/BarChart";
 import { Search } from "./components/Search";
 import Filters from "./components/Filters";
+import { MotoSharing } from "./components/MotoSharing";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <Carousel />
       <Search />
       <Filters />
+      <MotoSharing />
       <Footer />
     </>
   );
