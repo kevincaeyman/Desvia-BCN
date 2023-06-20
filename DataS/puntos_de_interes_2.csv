@@ -1,0 +1,872 @@
+,name,street,streetNum,neighbourhood,district,zipcode,longLongitude,longLatitude,density
+0,Hotel d'Entitats de Can Guardiola,Cuba,2,Sant Andreu,Sant Andreu,8030,41.4299594840632,2.188553382391543,1
+1,Bar Marsella,C Sant Pau,65,el Raval,Ciutat Vella,8001,41.3782782040133,2.17122360530803,2
+2,Telefèric de Barcelona,Pg Joan Borbó C Barcelona,88,la Barceloneta,Ciutat Vella,8039,41.37325014627403,2.187875716121665,1
+3,Universitat Politècnica de Catalunya,C Jordi Girona,31,Pedralbes,Les Corts,8034,41.3889419870853,2.116537839859507,1
+4,Casa del Guarda -  Espai d'Interpretació del Pantà de Vallvidrera,Camí del Pantà,40,"Vallvidrera, el Tibidabo i les Planes",Sarrià-Sant Gervasi,8017,41.415598383773975,2.0973845422401483,1
+5,Torre del Fang,Clot,228,la Sagrera,Sant Andreu,8027,41.41650054695728,2.1919480476112105,1
+6,Casa - Fàbrica Erasme de Gònima,Carme,106,el Raval,Ciutat Vella,8001,41.38013776152318,2.166732403540656,2
+7,Platja de la Nova Mar Bella,Pg Marítim de la Mar Bella,128,Diagonal Mar i el Front Marítim del Poblenou,Sant Martí,8019,41.401144617626905,2.2142493854271126,1
+8,"TAMAIA Viure Sense Violencia, S.C.C.L.",C Ripoll,25,el Barri Gòtic,Ciutat Vella,8002,41.38550526763556,2.175087497981421,3
+9,Museu Barça Immersive Tour,Carrer d'Arístides Maillol,12,la Maternitat i Sant Ramon,Les Corts,8028,41.379090515776426,2.120285513558928,1
+10,Residència Assistida per a Gent Gran Llars Mundet,Pg Vall d'Hebron,171,Montbau,Horta-Guinardó,8035,41.43575541409688,2.147158169831797,1
+11,Observatori Fabra,Ctra Observatori Fabra,27,"Vallvidrera, el Tibidabo i les Planes",Sarrià-Sant Gervasi,8035,41.41877190341054,2.1236452624703155,1
+12,Residència Militar d'Estudiants Mateo Calabro,Capità Arenas,52,Sarrià,Sarrià-Sant Gervasi,8034,41.39297332973805,2.12510287048567,1
+13,Can Fontanet - Centre d'Interpretació dels Tres Tombs de Sant Andreu,C Sant Adrià,20,Sant Andreu,Sant Andreu,8030,41.433793974354174,2.1908326284827284,1
+14,Palau Sant Jordi,Pg Olímpic,5,el Poble-sec,Sants-Montjuïc,8038,41.3620001141372,2.1523962021929672,1
+15,Casa Anoll,C Josep Torres,2,la Vila de Gràcia,Gràcia,8012,41.40044227869542,2.1610663164262904,2
+16,Casa Barangé,Pl Mons,4,Vallcarca i els Penitents,Gràcia,8023,41.413399023929664,2.144460106814436,1
+17,Jardins de Joan Maragall - Palauet Albéniz,Av Estadi,69,el Poble-sec,Sants-Montjuïc,8038,41.3671333000304,2.156511461067073,1
+18,Sant Pau Recinte Modernista,Carrer de Sant Antoni Maria Claret,167,el Guinardó,Horta-Guinardó,8025,41.41241647123583,2.1757600481895056,1
+19,Palau del Baró de Quadras,Av Diagonal,373,la Dreta de l'Eixample,Eixample,8008,41.396775817125445,2.161339600186852,3
+20,Facultat de Dret - UB,Av Diagonal,684,Pedralbes,Les Corts,8034,41.38723971871468,2.1210972500110508,1
+21,Cases modernistes del carrer de Sants,C Sants,211,Sants,Sants-Montjuïc,8028,41.37547034603628,2.1327032048740047,1
+22,El Rec Comtal,C Oristà,16,Vallbona,Nou Barris,8033,41.46478662529261,2.1857427165784453,1
+23,Port Olímpic de Barcelona,Port Olímpic,100,la Vila Olímpica del Poblenou,Sant Martí,8005,41.38772238063312,2.199282061005833,1
+24,Escultura Colles Sant Medir,Pl Trilla,1,la Vila de Gràcia,Gràcia,8012,41.40349932760185,2.1524158362950163,1
+25,Reial Acadèmia de Medicina de Catalunya,C Carme,47,el Raval,Ciutat Vella,8001,41.38152411821448,2.168974973139409,2
+26,"Casal Catòlic de Sant Andreu - Àntic Casino ""El Progrés""",C Pons i Gallarza,58,Sant Andreu,Sant Andreu,8030,41.43555707085925,2.186466964815642,1
+27,Institut del Teatre,Pl Margarida Xirgu,1,el Poble-sec,Sants-Montjuïc,8004,41.37067944898099,2.1574493140710094,1
+28,Jardins del Palau de Pedralbes,Av Diagonal,686,Pedralbes,Les Corts,8034,41.38654937434819,2.1184352989192647,1
+29,"Cooperativa Impulsem, SCCL",C Tàpies,6,el Raval,Ciutat Vella,8001,41.376680258915165,2.171051240900224,2
+30,Pont de Calatrava (Bac de Roda - Felip II),Carrer de Felip II,2,la Sagrera,Sant Andreu,8027,41.416166339580734,2.1924102551677853,1
+31,Associació Eix Comercial de Maragall,Rambla de la Muntanya,5,el Guinardó,Horta-Guinardó,8041,41.42197707927703,2.178470250568916,1
+32,Edifici de l'Antic Hospital de la Santa Creu,C Hospital,56,el Raval,Ciutat Vella,8001,41.38108881941956,2.169811468590316,3
+33,Parc de la Font del Racó,Av Tibidabo,72,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,8035,41.41609393601731,2.130839745769486,1
+34,Pavellons d'Entrada de l'Antiga Finca Güell,Avinguda de Pedralbes,7,Pedralbes,Les Corts,8034,41.38849058797558,2.120859299130536,1
+35,El passatge d'Antoni Gassol,Ptge Antoni Gassol,1,Sant Martí de Provençals,Sant Martí,8018,41.41275610120803,2.195583895314642,1
+36,Centre Educatiu Vedruna Gràcia Barcelona,C Gran de Gràcia,234,la Vila de Gràcia,Gràcia,8012,41.40471777195004,2.151415793082498,1
+37,Casa Muley-Afid,Pg Bonanova,55,les Tres Torres,Sarrià-Sant Gervasi,8017,41.40386449496666,2.1286747551139507,1
+38,Fundació Privada Foto Colectania,Pg Picasso,14,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,8003,41.387673365422295,2.1827368854864178,2
+39,Antiga Estació de Rodalies Sant Andreu Comtal de RENFE,Plaça de l'Estació,1,Sant Andreu,Sant Andreu,8030,41.43594335271556,2.192489567666219,1
+40,Telefèric de Montjuïc,Av Miramar,20,el Poble-sec,Sants-Montjuïc,8038,41.36885056534847,2.1630513619866973,1
+41,Museu Etnològic i de Cultures del Món *Parc Montjuïc,Passeig de Santa Madrona,16,el Poble-sec,Sants-Montjuïc,8038,41.36909366060918,2.156001328720349,1
+42,Hospital Clínic i Provincial,C Villarroel,170,l'Antiga Esquerra de l'Eixample,Eixample,8036,41.38955539831457,2.152194463242196,1
+43,Palau de Congressos *Pavelló 5,Av Reina Maria Cristina,1,el Poble-sec,Sants-Montjuïc,8004,41.37241483260608,2.1518889546104605,1
+44,CaixaForum Barcelona,Avinguda de Francesc Ferrer i Guàrdia,6,la Font de la Guatlla,Sants-Montjuïc,8038,41.37132601483052,2.1495935126379413,1
+45,Biblioteca Clarà,Carrer del Doctor Carulla,22,les Tres Torres,Sarrià-Sant Gervasi,8017,41.39994044899448,2.1294738021393327,1
+46,Casa Granell *Girona,C Girona,122,la Dreta de l'Eixample,Eixample,8009,41.39730099114916,2.1680813060601696,3
+47,La plaça del Diamant i el refugi antiaeri,Pl Diamant,2,la Vila de Gràcia,Gràcia,8012,41.40416836291504,2.156126554176889,1
+48,L'Anella Olímpica,Av Estadi,44,el Poble-sec,Sants-Montjuïc,8038,41.36617316365693,2.1525839482341884,1
+49,La Zona Universitària,C John M Keynes,4,Pedralbes,Les Corts,8034,41.38614602205185,2.116760355882887,1
+50,Plaça del Nen de la Rutlla,Pl Nen de la Rutlla,9999,el Guinardó,Horta-Guinardó,8041,41.4188254176045,2.1715923368510053,1
+51,Sant Joan de Dalt,Pg Sant Joan,150,el Camp d'en Grassot i Gràcia Nova,Gràcia,8037,41.40216470756282,2.1664109515260725,1
+52,Centre de Reunions i Convencions UAB Casa Convalescència,C Sant Antoni Maria Claret,171,el Guinardó,Horta-Guinardó,8025,41.41379174747704,2.176910232352591,1
+53,Centre Cívic Can Castelló,Carrer de Castelló,1,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,8021,41.39904051559379,2.140179532716965,1
+54,Palau Macaya,Pg Sant Joan,108,la Dreta de l'Eixample,Eixample,8037,41.39987499692392,2.16943219323842,1
+55,Santa Església Catedral Basílica de Barcelona,Pla Seu,3,el Barri Gòtic,Ciutat Vella,8002,41.38429657081115,2.1761751314006545,3
+56,Placa Fotovoltaica,Pl Fòrum,1,el Besòs i el Maresme,Sant Martí,8019,41.41150571915544,2.2281237482570995,1
+57,Mercat de les Flors Centre de les Arts de Moviment,Lleida,59,el Poble-sec,Sants-Montjuïc,8004,41.370538264069474,2.157271883570921,1
+58,Hotel W Barcelona - HB-004411,Pl Rosa dels Vents,1,la Barceloneta,Ciutat Vella,8039,41.36836130546307,2.1899983126477727,1
+59,Centre Municipal de Cultura Popular de Sant Andreu,C Arquímedes,30,Sant Andreu,Sant Andreu,8030,41.44068473251822,2.1876438165449668,1
+60,Palau de la Virreina,la Rambla,99,el Raval,Ciutat Vella,8002,41.38252973907768,2.171726398818812,4
+61,Fundació Universitaria Agustí Pedro Pons,Av Vallvidrera,25,Sarrià,Sarrià-Sant Gervasi,8017,41.40660960989669,2.1141838297013127,1
+62,Edifici de la Fàbrica Moritz - Espai Gastronòmic i Cultural,Rda Sant Antoni,39,Sant Antoni,Eixample,8011,41.38253112132161,2.1634359544972748,3
+63,Casa Casas-Carbó,Pg Gràcia,96,la Dreta de l'Eixample,Eixample,8008,41.39548106980388,2.1613599645166035,3
+64,Casa Antoni Costa,Rbla Catalunya,122,la Dreta de l'Eixample,Eixample,8008,41.39516263147227,2.15817039068309,2
+65,Casa Comas d' Argemir,Av República Argentina,92,Vallcarca i els Penitents,Gràcia,8023,41.41079093017859,2.145865303185273,1
+66,Plaça de la Virreina,Pl Virreina,3,la Vila de Gràcia,Gràcia,8024,41.40510303249848,2.1574390767796703,1
+67,Plaça del Nord,Pl Nord,3,la Vila de Gràcia,Gràcia,8024,41.40697402455321,2.1554445283158845,1
+68,El pont de Mühlberg,C Mühlberg,100,Can Baró,Horta-Guinardó,8024,41.41856212293422,2.161799283919621,1
+69,Can Carreras,C Ogassa,6,Can Peguera,Nou Barris,8042,41.4358526732663,2.167141449216274,1
+70,Jardins de Vil·la Amèlia,Carrer d'Eduardo Conde,22,Sarrià,Sarrià-Sant Gervasi,8034,41.3939061996762,2.1211872573336934,1
+71,Park Güell,Carrer d'Olot,7,la Salut,Gràcia,8024,41.41350924872243,2.1531271963876573,1
+72,Parc del Laberint d'Horta,Passeig dels Castanyers,1,Montbau,Horta-Guinardó,8035,41.4379570487644,2.1475613087947543,1
+73,Parc del Guinardó,Garriga i Roca,1,el Guinardó,Horta-Guinardó,8041,41.41948943678852,2.169613897166294,1
+74,Parc del Turó de la Peira,Passeig de Fabra i Puig,396,el Turó de la Peira,Nou Barris,8031,41.43346223343623,2.1634471242007627,1
+75,Escola d'Aprenents SEAT,Pg Zona Franca,53,la Marina del Prat Vermell,Sants-Montjuïc,8038,41.35443340782173,2.142929012130741,1
+76,Bar Mestres,C Vergós,9,les Tres Torres,Sarrià-Sant Gervasi,8017,41.399609906094966,2.1310611460751536,1
+77,Torre de la Catalana de Gas,Passeig Marítim de la Barceloneta - Oriol Bohigas,15,la Barceloneta,Ciutat Vella,8003,41.38205967912699,2.1938398880660617,1
+78,Centre Cívic Casa Golferichs,Gran Via de les Corts Catalanes,491,la Nova Esquerra de l'Eixample,Eixample,8015,41.3808491471351,2.1564074948215346,2
+79,Mooby Bosque Multicines,Rambla de Prat,16,la Vila de Gràcia,Gràcia,8012,41.40139721074221,2.151721868976122,2
+80,Hospital  Sociosanitari Mutuam Güell,C Mare de Déu de la Salut,49,la Salut,Gràcia,8024,41.411445154741465,2.1567276831754065,1
+81,Jardins de Mossèn Costa i Llobera,Ctra Miramar,38,el Poble-sec,Sants-Montjuïc,8038,41.36961505587559,2.17232416934953,1
+82,Palau Montaner,C Mallorca,278,la Dreta de l'Eixample,Eixample,8037,41.39560044059546,2.1650637423227845,2
+83,Associació de Comerciants i Veïns de Creu Coberta,C Callao,9,Hostafrancs,Sants-Montjuïc,8014,41.37602040585622,2.143153879462518,2
+84,Casa Museu Gaudí,Carretera del Carmel,23,la Salut,Gràcia,8024,41.41481232125404,2.1550643342300395,1
+85,Club Natació Catalunya,Carrer d'Ana María Matute Ausejo,25,la Salut,Gràcia,8024,41.415382605384856,2.1581717784411687,1
+86,Club Tennis La Salut,Carrer de la Mare de Déu de la Salut,75,la Salut,Gràcia,8024,41.41234042111287,2.15819198579813,1
+87,MUHBA Museu d'Història de Barcelona  - Refugi 307,Carrer Nou de la Rambla,175,el Poble-sec,Sants-Montjuïc,8004,41.37107815965785,2.166220058300664,2
+88,Reial Acadèmia de Ciències i Arts de Barcelona,C la Rambla,115,el Raval,Ciutat Vella,8002,41.38417592716741,2.1707408640195456,5
+89,Estació Barcelona-Sants de RENFE,Pl Països Catalans,1,Sants,Sants-Montjuïc,8014,41.379556967903945,2.1408179856438947,1
+90,"BAU, Centre Universitari d'Arts i Disseny de Barcelona",C Pujades,118,el Poblenou,Sant Martí,8005,41.39772635565731,2.195641449471245,1
+91,Casal Cívic Barcelona - Magòria,G.V. Corts Catalanes,247,la Bordeta,Sants-Montjuïc,8014,41.36986934117719,2.14126001076402,1
+92,Impremta Baltasar,Gran de Sant Andreu,152,Sant Andreu,Sant Andreu,8030,41.43211304281075,2.189406556408065,1
+93,Drogueria Rovira (Antiga Drogueria Galvany),Madrazo,127,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,8021,41.39694983975115,2.14476287679332,2
+94,El Parc del Fòrum,Pl Fòrum,1,el Besòs i el Maresme,Sant Martí,8019,41.411066821389646,2.221714876463801,1
+95,Santa Creu d'Olorda,Ctra Santa Creu Olorda a Sarrià,417,"Vallvidrera, el Tibidabo i les Planes",Sarrià-Sant Gervasi,8017,41.415981372010265,2.0590073481470856,1
+96,Can Mora,C Portell,11,el Carmel,Horta-Guinardó,8023,41.41790973374814,2.151042845959997,1
+97,Can Muntaner de Dalt,C Olot,1,la Salut,Gràcia,8024,41.41350924872243,2.1531271963876573,1
+98,Can Trilla,C Gran de Gràcia,177,la Vila de Gràcia,Gràcia,8012,41.40354926420721,2.1519292949349675,1
+99,Casa Elisa Bremon d'Espina,C Gran de Gràcia,61,la Vila de Gràcia,Gràcia,8012,41.39964691466049,2.155601559279648,2
+100,Casa Eloy Detouche,C Pare Laínez,17,el Camp d'en Grassot i Gràcia Nova,Gràcia,8025,41.406698383788495,2.16476312511361,1
+101,Casa F. Homet,C Santa Magdalena,1,la Vila de Gràcia,Gràcia,8012,41.40368647833563,2.1524799804849275,1
+102,Casa Feliu Iglesies,C Gran de Gràcia,135,la Vila de Gràcia,Gràcia,8012,41.40217836640819,2.152775398750866,1
+103,Fàbrica de Creació Hangar,C Emília Coranty,8,Provençals del Poblenou,Sant Martí,8018,41.408601288709,2.199379275633804,1
+104,Carrer Major de Sarrià,C Major de Sarrià,1,Sarrià,Sarrià-Sant Gervasi,8017,41.39599155894148,2.1251530428320944,1
+105,Casa Fornells,Av Tibidabo,35,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,8022,41.41373899158242,2.134298941292163,1
+106,Santuari de Santa Eulàlia de Vilapicina,C Pere d'Artés,2,el Turó de la Peira,Nou Barris,8031,41.43072358230434,2.1729158525346945,1
+107,El Paral·lel,Av Paral·lel,170,Sant Antoni,Eixample,8015,41.37522098509261,2.1558593296923467,2
+108,Sant Pere i Santa Caterina,C Sant Pere Més Baix,68,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,8003,41.38814215702065,2.178572782653608,2
+109,El barri de la Mercè,C Torrent de les Roses,1,Pedralbes,Les Corts,8034,41.388936898572986,2.1055266224814213,1
+110,Edifici Alhambra,C Berlinès,5,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,8006,41.40361717823645,2.1397153048637696,1
+111,El Farró a través del carrer Saragossa,C Saragossa,1,el Putxet i el Farró,Sarrià-Sant Gervasi,8006,41.40089932712729,2.150867135716541,2
+112,La plaça de Sarrià,Pl Sarrià,-2147483648,Sarrià,Sarrià-Sant Gervasi,8017,41.39981901760966,2.122029074017245,1
+113,La Torre d'Aigües de Josep Amargós,Carretera de Vallvidrera al Tibidabo,107,"Vallvidrera, el Tibidabo i les Planes",Sarrià-Sant Gervasi,8035,41.42297808783553,2.118943948440615,1
+114,MUHBA Museu d'Història de Barcelona - Vil·la Joana,Carretera de l'Església,104,"Vallvidrera, el Tibidabo i les Planes",Sarrià-Sant Gervasi,8017,41.41954329767189,2.099950499346553,1
+115,Can Culleretes,C Quintana,5,el Barri Gòtic,Ciutat Vella,8002,41.381241482418325,2.1744292455209995,5
+116,La Diagonal,Av Diagonal,629,la Maternitat i Sant Ramon,Les Corts,8028,41.38793852100829,2.125713944106764,1
+117,Refugi Antiaeri de La Lira,C Coroleu,15,Sant Andreu,Sant Andreu,8030,41.43277350201,2.1881654862843227,1
+118,Refugi Antiaeri 977 (Matanzas / Pinar del Río),C Pinar del Río,32,el Congrés i els Indians,Sant Andreu,8027,41.42243408970824,2.182057614392575,1
+119,Capella dels Segadors,Pl Orfila,5,Sant Andreu,Sant Andreu,8030,41.436298796229686,2.191490177023649,1
+120,Associació Catalana per la Integració i el Desenvolupament Humà,Carrer de Siracusa,53,la Vila de Gràcia,Gràcia,8012,41.40196689745648,2.161132948779616,2
+121,La Plaça Reial,Pl Reial,5,el Barri Gòtic,Ciutat Vella,8002,41.38044055326621,2.1749759344450665,5
+122,El Campus Ciutadella,C Ramon Trias Fargas,25,la Vila Olímpica del Poblenou,Sant Martí,8005,41.39002929461585,2.190872085861088,1
+123,El Campus Mundet - UB,Pg Vall d'Hebron,173,Montbau,Horta-Guinardó,8035,41.43575541409688,2.147158169831797,1
+124,La llera del riu Besòs,Pl Turó de la Trinitat,1,la Trinitat Vella,Sant Andreu,8033,41.45464961996649,2.1909188386141625,1
+125,Parc de Montjuïc,Pg Migdia,147,el Poble-sec,Sants-Montjuïc,8038,41.361405474771885,2.1597293853420427,1
+126,Colmado Murria,Roger de Llúria,85,la Dreta de l'Eixample,Eixample,8009,41.39480108686979,2.166511035825545,2
+127,Bar musical La Torre Rosa,C Francesc Tàrrega,22,el Congrés i els Indians,Sant Andreu,8027,41.42271161168508,2.180504022970048,1
+128,Casa Josep Castelló,C Sors,23,la Vila de Gràcia,Gràcia,8024,41.40922522099331,2.1583254055522816,1
+129,Casa Martí Trias i Domènech,C Olot,5,la Salut,Gràcia,8024,41.41350924872243,2.1531271963876573,1
+130,Casa Rosa Alemany,Av República Argentina,6,Vallcarca i els Penitents,Gràcia,8023,41.40737731100891,2.1486334572576897,1
+131,Casa Serès,C Verdi,39,la Vila de Gràcia,Gràcia,8012,41.40403970754993,2.156628602714139,1
+132,Conjunt de Cases al Carrer Francisco Giner,C Francisco Giner,16,la Vila de Gràcia,Gràcia,8012,41.39892971334762,2.1594708997786287,3
+133,Cases Manuel Raventós,Rbla Prat,13,la Vila de Gràcia,Gràcia,8012,41.40139423653911,2.15203322023042,2
+134,Edifici J. Artigas,C Martínez de la Rosa,34,la Vila de Gràcia,Gràcia,8012,41.39985990968168,2.1591654567457805,2
+135,Sant Andreu Teatre,C Neopàtria,54,Sant Andreu,Sant Andreu,8030,41.43061427405158,2.1889212140974257,1
+136,Plaça dels Àngels,Plaça dels Àngels,1,el Raval,Ciutat Vella,8001,41.38301191729434,2.167811083780596,2
+137,Masia Torre Rodona - Can Vinyals de la Torre,C Doctor Salvador Cardenal,7,la Maternitat i Sant Ramon,Les Corts,8028,41.38593280819908,2.1239439361700736,1
+138,Cafeteria Restaurant Cafè de l'Òpera,Carrer la Rambla,74,el Barri Gòtic,Ciutat Vella,8002,41.38091335380008,2.173782143732884,5
+139,El Fòrum,Pl Fòrum,2,el Besòs i el Maresme,Sant Martí,8019,41.411066821389646,2.221714876463801,1
+140,La plaça d'Orfila,Pl Orfila,2,Sant Andreu,Sant Andreu,8030,41.43624446859993,2.1909591589263973,1
+141,El Tibidabo,Ctra Observatori Fabra,25,"Vallvidrera, el Tibidabo i les Planes",Sarrià-Sant Gervasi,8028,41.418913335121154,2.1233033539813286,1
+142,La Rambla del Raval,Rbla Raval,12,el Raval,Ciutat Vella,8001,41.37888562756235,2.1691786660708967,3
+143,Xemeneia de Can Galta Cremat,C Arquímedes,30,Sant Andreu,Sant Andreu,8030,41.440635877473454,2.187715361234582,1
+144,Les Carasses,Pg Torras i Bages,108,Sant Andreu,Sant Andreu,8030,41.44136142057691,2.1910812403192512,1
+145,Ca l'Artés,C Pere d'Artés,8,el Turó de la Peira,Nou Barris,8031,41.4306058710236,2.172703711654441,1
+146,Plaça Eivissa,Pl Eivissa,1,Horta,Horta-Guinardó,8032,41.43021998617648,2.1609828368500468,1
+147,Casal d'Entitats Mas Guinardó,Plaça de Salvador Riera,2,el Guinardó,Horta-Guinardó,8041,41.41816915835005,2.1744079393214104,1
+148,Floristeria Flora Miserachs,C Avió Plus Ultra,21,Sarrià,Sarrià-Sant Gervasi,8017,41.40098051100123,2.12109349397744,1
+149,Can Fabra,C Segre,24,Sant Andreu,Sant Andreu,8030,41.43492914455278,2.1917282568652703,1
+150,Casa Estapé,Pg Sant Joan,6,el Fort Pienc,Eixample,8010,41.391927096739074,2.1799660951050184,2
+151,Cases Rocamora,Pg Gràcia,6,la Dreta de l'Eixample,Eixample,8007,41.38891899310887,2.1694907182668186,3
+152,Casa Malagrida,Pg Gràcia,27,la Dreta de l'Eixample,Eixample,8007,41.39070796924331,2.166233113657074,4
+153,Forn de la Concepció,C Girona,74,la Dreta de l'Eixample,Eixample,8009,41.3953024422244,2.17072858132926,3
+154,Ateneu d'Innovació Digital i Democràtica - Canòdrom,C Concepción Arenal,165,el Congrés i els Indians,Sant Andreu,8027,41.42728664518391,2.1841198480555195,1
+155,L'Aqüeducte de Ciutat Meridiana,Av Rasos de Peguera,53,Ciutat Meridiana,Nou Barris,8033,41.45954300543077,2.175066517148887,1
+156,El barri del Bon Pastor,C Estadella,65,el Bon Pastor,Sant Andreu,8030,41.435478964503005,2.204587880121658,1
+157,El Campus de Comunicació,Carrer de Roc Boronat,134,el Parc i la Llacuna del Poblenou,Sant Martí,8018,41.40367554356738,2.1935349162488165,1
+158,Centre Esportiu Municipal Putxet,C Marmellà,23,el Putxet i el Farró,Sarrià-Sant Gervasi,8023,41.40972803896787,2.1412958877792825,1
+159,Masia la Petita Maria,C López Catalán,4,Sants,Sants-Montjuïc,8014,41.37596451659646,2.137403550085132,1
+160,La plaça de Sant Gaietà,Pl Sant Gaietà,5,Sarrià,Sarrià-Sant Gervasi,8034,41.40027641073024,2.1202647267287524,1
+161,Plaça del Sol,Pl Sol,6,la Vila de Gràcia,Gràcia,8012,41.40162178824694,2.1566738998226365,2
+162,El carrer de Campoamor,C Campoamor,4,Horta,Horta-Guinardó,8031,41.432914933001776,2.158212492323379,1
+163,Casa de la Marina,Pg Joan Borbó Comte Barcelona,42,la Barceloneta,Ciutat Vella,8003,41.37800931137947,2.188448960539094,2
+164,La carretera de les Aigües (sector Horta-Guinardó),Ctra Aigües,361,Sant Genís dels Agudells,Horta-Guinardó,8035,41.42145480207412,2.131518261519387,1
+165,L'Aqüeducte del Parc Central de Nou Barris,Pl Major de Nou Barris,1,la Guineueta,Nou Barris,8042,41.4368445525108,2.1712296246319656,1
+166,Centre de Cultura Popular La Violeta de Gràcia,C Maspons,6,la Vila de Gràcia,Gràcia,8012,41.401030994270805,2.1562145898860363,2
+167,Museu de Pintura Contemporània Can Framis,Carrer de Roc Boronat,116,el Parc i la Llacuna del Poblenou,Sant Martí,8018,41.40294420265117,2.1949651108093025,1
+168,MUHBA Museu d'Història de Barcelona - Oliva Artés,Carrer d'Espronceda,142,Provençals del Poblenou,Sant Martí,8018,41.4083072163263,2.2011067332390364,1
+169,Museu Olímpic i de l'Esport Joan Antoni Samaranch de Barcelona,Avinguda de l'Estadi,60,el Poble-sec,Sants-Montjuïc,8038,41.36628092507608,2.1570941364707474,1
+170,La Rambla,C Rambla,10,el Barri Gòtic,Ciutat Vella,8002,41.37765445203638,2.17649085980406,3
+171,Centre Cultural Teresa Pàmies,C Comte d'Urgell,145,la Nova Esquerra de l'Eixample,Eixample,8036,41.38689535147526,2.152049712385728,2
+172,Ronda de Sant Antoni,Ronda de Sant Antoni,1,Sant Antoni,Eixample,8011,41.37918080972604,2.1629662196711665,2
+173,Facultat de Ciències de la Salut Blanquerna - URL,C Padilla,326,el Baix Guinardó,Horta-Guinardó,8025,41.409786505203634,2.1721184721407334,1
+174,Palau de la Premsa,Av Rius i Taulet,5,el Poble-sec,Sants-Montjuïc,8004,41.37248388332652,2.1538979761055,1
+175,La Plaça del Sortidor,Pl Sortidor,4,el Poble-sec,Sants-Montjuïc,8004,41.37260876412629,2.1621656959358955,2
+176,Conjunt de Torretes al carrer Verdi,C Verdi,144,la Vila de Gràcia,Gràcia,8012,41.40746179464576,2.153354042541838,1
+177,El Canal de la Infanta,C Mare de Déu de Port,56,el Poble-sec,Sants-Montjuïc,8038,41.354396016853215,2.149012074553124,1
+178,Bodega Josefa,C Saragossa,86,el Putxet i el Farró,Sarrià-Sant Gervasi,8006,41.40432354338867,2.145936393031032,1
+179,Viaducte de Bellesguard,C Bellesguard,16,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,8022,41.40916537462648,2.126829667587517,1
+180,Espai Subirachs - Poblenou,Carrer de Batista,6,el Poblenou,Sant Martí,8005,41.404152690531006,2.199893955698491,1
+181,El Born i la Ribera,Pg Born,30,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,8003,41.38485510195776,2.1830157301046778,3
+182,La Barceloneta,C Baluard,50,la Barceloneta,Ciutat Vella,8003,41.37956860884705,2.189117360481648,2
+183,Sants i Hostafrancs,C Creu Coberta,100,Hostafrancs,Sants-Montjuïc,8014,41.37539782108393,2.142619387099987,2
+184,La Sagrera,C Ciutat d'Elx,8,la Sagrera,Sant Andreu,8027,41.42050912718914,2.190043117956252,1
+185,La Vila Olímpica,C Salvador Espriu,43,la Vila Olímpica del Poblenou,Sant Martí,8005,41.38937966568577,2.197267885136565,1
+186,Biblioteca Collserola-Josep Miracle,Carrer d'Elisa Moragas i Badia,16,"Vallvidrera, el Tibidabo i les Planes",Sarrià-Sant Gervasi,8017,41.41538974314011,2.102546833751382,1
+187,Zoo de Barcelona,Parc Ciutadella,-2147483648,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,8003,41.386153673583415,2.18718701380818,1
+188,Parròquia de l'Immaculat Cor de Maria,C Sant Antoni Maria Claret,45,el Camp d'en Grassot i Gràcia Nova,Gràcia,8025,41.405951148357936,2.166593971349565,1
+189,Bibiblioteca Rector Gabriel Ferraté,Jordi Girona,1,Pedralbes,Les Corts,8034,41.38790151896208,2.114670433495852,1
+190,Parc de Can Dragó,C Rosselló i Porcel,7,Porta,Nou Barris,8016,41.43659306940482,2.183157005742885,1
+191,Centre d'Educació Ambiental La Fàbrica del Sol,Pg Salvat Papasseit,1,la Barceloneta,Ciutat Vella,8003,41.383031580266,2.1912801963845494,1
+192,Velodrom Municipal d'Horta Miquel Poblet,Pg Vall d'Hebron,185,Horta,Horta-Guinardó,8035,41.43723757663772,2.1495946440435265,1
+193,Restaurant Can Travi Nou,C Jorge Manrique,-2147483648,la Vall d'Hebron,Horta-Guinardó,8035,41.43139726568915,2.150432990990598,1
+194,Centre Comercial Arenas de Barcelona,G.V. Corts Catalanes,373,la Nova Esquerra de l'Eixample,Eixample,8015,41.376038338441205,2.1499752959539173,2
+195,Palau de Congressos de Catalunya,Av Diagonal,661,la Maternitat i Sant Ramon,Les Corts,8028,41.38351274680861,2.10968312575943,1
+196,Camp Municipal Futbol Narcís Sala,C Santa Coloma,39,Sant Andreu,Sant Andreu,8030,41.42889692238828,2.1930944831499715,1
+197,Disseny Hub Barcelona,Pl Glòries Catalanes,37,el Parc i la Llacuna del Poblenou,Sant Martí,8038,41.40260111169283,2.1880498461023428,1
+198,Institut Vila de Gràcia,C Riera de Sant Miquel,58,la Vila de Gràcia,Gràcia,8006,41.3986014146248,2.155368115677565,2
+199,Pavelló de la República,C Jorge Manrique,9,la Vall d'Hebron,Horta-Guinardó,8035,41.43084548288972,2.151482356409004,1
+200,Casa Joan Matas,C Francisco Giner,32,la Vila de Gràcia,Gràcia,8012,41.39939919545339,2.158955446305032,3
+201,Casa José de Ugarte,C Santa Perpètua,15,la Vila de Gràcia,Gràcia,8012,41.407908057431946,2.1523730608821405,1
+202,Casa Víctor Conill,C Gran de Gràcia,1,la Vila de Gràcia,Gràcia,8012,41.397802872401726,2.157352034558083,3
+203,Cases Leandre Vidal,C Fraternitat,35,la Vila de Gràcia,Gràcia,8012,41.40086949415277,2.160109975770286,2
+204,La plaça del Monestir,Pl Monestir,-2147483648,Pedralbes,Les Corts,8034,41.39644186075786,2.1129074520593005,1
+205,La Porta Est de la Finca Güell,Av Joan XXIII,27,la Maternitat i Sant Ramon,Les Corts,8028,41.38555915734198,2.1223275022909265,1
+206,La Plaça del Comerç,Pl Comerç,6,Sant Andreu,Sant Andreu,8030,41.43522215078868,2.189877474368489,1
+207,La Vil·la Hèlius (Casa Grané),C Panamà,13,Pedralbes,Les Corts,8034,41.39546285499821,2.107541318408962,1
+208,L'Antic Institut Frenopàtic,C Mejía Lequerica,55,la Maternitat i Sant Ramon,Les Corts,8028,41.38433208402624,2.1263311628356334,1
+209,L'Àrea Olímpica de la Diagonal,Av Xile,29,la Maternitat i Sant Ramon,Les Corts,8028,41.38026418155435,2.1144189385595857,1
+210,Jardins de la Tamarita,Pg Sant Gervasi,47,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,8022,41.41090504207735,2.1353308120104346,1
+211,Parròquia de Santa Maria de Vallvidrera,Carrer de l'Actor Morano,9,"Vallvidrera, el Tibidabo i les Planes",Sarrià-Sant Gervasi,8017,41.413374393677856,2.105350228867789,1
+212,Església de Nostra Senyora de Pompeia,Av Diagonal,450,la Vila de Gràcia,Gràcia,8006,41.39646355499734,2.1581534123611474,2
+213,Clínica Sant Jordi,Pl Estació,12,Sant Andreu,Sant Andreu,8030,41.43675865439791,2.193077895717268,1
+214,Passatge de Sant Felip,Ptge Sant Felip,1,el Putxet i el Farró,Sarrià-Sant Gervasi,8006,41.40338319158916,2.1471047244543726,1
+215,La plaça Molina,Pl Molina,1,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,8006,41.40128333249604,2.146733983621581,1
+216,Casa Carreras,Av Pearson,14,Pedralbes,Les Corts,8034,41.39404843334341,2.108987100941613,1
+217,Parc Torrent Maduixer,C Josep Garí,7,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,8035,41.4157696917074,2.1353909998606846,1
+218,Parc del Clot,Escultors Claperós,55,el Clot,Sant Martí,8018,41.40847228003916,2.1900153665666733,1
+219,Casa Llorenç Camprubí,C Casp,22,la Dreta de l'Eixample,Eixample,8010,41.38934938466775,2.170855670436062,4
+220,Forn Sarret,C Girona,73,la Dreta de l'Eixample,Eixample,8009,41.39477841624774,2.1710520735754435,3
+221,Casa Dolors Calm,Rbla Catalunya,54,la Dreta de l'Eixample,Eixample,8007,41.39086396941241,2.164071911206961,3
+222,Casa Juncosa,Rbla Catalunya,78,la Dreta de l'Eixample,Eixample,8008,41.392360953618585,2.1620196660786224,3
+223,Cases Pascual i Pons,Pg Gràcia,2,la Dreta de l'Eixample,Eixample,8007,41.388385084056864,2.1701506816093343,3
+224,Club Natació Sant Andreu,Rbla Fabra i Puig,47,Sant Andreu,Sant Andreu,8030,41.43005047129457,2.186313336459395,1
+225,La Casa de l'Aigua,C Garbí,2,la Trinitat Nova,Nou Barris,8033,41.45296545224615,2.188036804130217,1
+226,Parc de les Aigües,Pl Alfons el Savi,3,el Baix Guinardó,Horta-Guinardó,8024,41.413577084643165,2.1654810232921857,1
+227,Parc de la Guineueta,Plaça de la República,9,la Guineueta,Nou Barris,8016,41.43904973751512,2.1744888744706907,1
+228,Associació de Comerciants i Professionals Barnavasi,C Septimània,31,el Putxet i el Farró,Sarrià-Sant Gervasi,8006,41.40545573179054,2.147638695309088,1
+229,Casa Serra,Rbla Catalunya,126,la Dreta de l'Eixample,Eixample,8008,41.3956274787058,2.157534429798631,2
+230,Casa Madurell,C Torrijos,14,la Vila de Gràcia,Gràcia,8012,41.40275219893523,2.1596123951981183,2
+231,Casa Vilabella,C Astúries,65,la Vila de Gràcia,Gràcia,8012,41.40416890235721,2.155505247349864,1
+232,Viaducte de Vallcarca,C Gomis,2,Vallcarca i els Penitents,Gràcia,8023,41.41181800039176,2.1432697424292484,1
+233,Fossar de les Moreres,Pl Fossar de les Moreres,1,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,8003,41.38365386571088,2.182415163172454,3
+234,Edifici d'habitatges Gran de Gràcia 67,C Gran de Gràcia,67,la Vila de Gràcia,Gràcia,8012,41.399899033342535,2.1553048145748552,2
+235,Casa Francesc Cama,C Gran de Gràcia,77,la Vila de Gràcia,Gràcia,8012,41.40028269384311,2.1548570322157654,2
+236,Círculo Ecuestre,C Balmes,169,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,8006,41.39576394046428,2.1540111781345663,2
+237,Fàbrica de Creació La Escocesa,Carrer de Pere IV,345,Provençals del Poblenou,Sant Martí,8020,41.41127532997013,2.203844026804752,1
+238,Escultura David i Goliat Homenatge a les Brigades Internacionals,Rbla Carmel,46,el Carmel,Horta-Guinardó,8032,41.4248731521239,2.157703561885268,1
+239,Educa +,C Sant Quintí,12,el Camp de l'Arpa del Clot,Sant Martí,8026,41.412523988936215,2.179570364707956,2
+240,Espai Bombers Parc de la Prevenció de Barcelona,C Lleida,30,el Poble-sec,Sants-Montjuïc,8004,41.37369595375425,2.154566177208794,2
+241,Edifici Modernista Francisco Giner 47,C Francisco Giner,47,la Vila de Gràcia,Gràcia,8012,41.39978158248624,2.1583968710038635,3
+242,Edifici d'Habitatges Gran de Gràcia 138,C Gran de Gràcia,138,la Vila de Gràcia,Gràcia,8012,41.40169937350612,2.153476912041365,1
+243,Ermita de la Mare de Déu de la Salut,C Mare de Déu de la Salut,55,la Salut,Gràcia,8024,41.41154995474911,2.15710983691872,1
+244,Fàbrica Artés,C Venus,8,la Vila de Gràcia,Gràcia,8012,41.3996059970396,2.1622755265173805,3
+245,La plaça de Gal·la Placídia,Pl Gal·la Placídia,1,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,8006,41.39860621855363,2.1529425675079312,2
+246,La plaça de John Lennon,Pl John Lennon,-2147483648,la Vila de Gràcia,Gràcia,8012,41.40286050125628,2.161534271677585,2
+247,El Raval,Rbla Raval,37,el Raval,Ciutat Vella,8001,41.37843259823848,2.170175969805075,2
+248,Cementiri Montjuïc,Carrer de la Mare de Déu de Port,56,el Poble-sec,Sants-Montjuïc,8038,41.35439614126615,2.149011845799688,1
+249,Sant Antoni,C Comte d'Urgell,7,Sant Antoni,Eixample,8011,41.37975147357524,2.1615104199875472,2
+250,La plaça d'Espanya,Pl Espanya,4,el Poble-sec,Sants-Montjuïc,8004,41.37397463762443,2.1487108014908456,1
+251,El Poble-sec,C Blai,36,el Poble-sec,Sants-Montjuïc,8004,41.374027060846295,2.163850226343413,2
+252,Les Corts,Pl Concòrdia,2,les Corts,Les Corts,8014,41.38669051526725,2.131946333706955,1
+253,Consell Municipal del Districte de Sarrià-Sant Gervasi,Plaça del Consell de la Vila,7,Sarrià,Sarrià-Sant Gervasi,8034,41.39912976584916,2.1214123028583627,1
+254,Consell Municipal del Districte de Nou Barris,Pl Major de Nou Barris,1,la Guineueta,Nou Barris,8042,41.4368445525108,2.1712296246319656,1
+255,Casal de Barri Pou de la Figuera,Carrer de Sant Pere Més Baix,70,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,8003,41.38819881761839,2.17865660673348,2
+256,Antiga Fàbrica d'Estampació Tèxtil Can Ricart,C Emília Coranty,33,Provençals del Poblenou,Sant Martí,8018,41.40922632383825,2.1981716288388373,1
+257,Associació d'Amics del Passeig de Gràcia,Carrer d'Aragó,266,la Dreta de l'Eixample,Eixample,8007,41.39124613997681,2.1639254997365103,3
+258,Casa Sant Felip Neri,C Nena Casas,37,les Tres Torres,Sarrià-Sant Gervasi,8017,41.39572136064741,2.130903870123052,1
+259,Pis - Museu Habitatge 1/11,Passeig de Torras i Bages,91,Sant Andreu,Sant Andreu,8030,41.44097555447716,2.190352662404392,1
+260,La plaça de Nicolás Salmerón,Pla Nicolás Salmerón,-2147483648,la Vila de Gràcia,Gràcia,8012,41.39801209292751,2.157480714601559,3
+261,La Pedrera Romana,C Ferrocarrils Catalans,4,el Poble-sec,Sants-Montjuïc,8038,41.35716874044697,2.145671534709044,1
+262,Torre de l'Aigua,C Santa Àgata,6,la Vila de Gràcia,Gràcia,8012,41.40405325796555,2.152229161692367,1
+263,El barri Plus Ultra,C Aviador Ruiz de Alda,28,la Marina de Port,Sants-Montjuïc,8038,41.360594861404536,2.14102627404691,1
+264,Antiga Biblioteca Pública de Sant Andreu de Palomar,C Santa Marta,12,Sant Andreu,Sant Andreu,8030,41.43679975051145,2.1905489388615904,1
+265,L'Aqüeducte Palombarum,C Fernando Pessoa,1,Sant Andreu,Sant Andreu,8030,41.43821655449944,2.193187925153491,1
+266,Antic Monòlit Dedicat a la Legión Condor,Pl Reina Maria Cristina,1,Pedralbes,Les Corts,8034,41.38863075155166,2.127086735020199,1
+267,Cansaladeria Puig,C Gran de Sant Andreu,147,Sant Andreu,Sant Andreu,8030,41.43196537763445,2.1892316530910487,1
+268,"L'antic Putxet. Els carrers Manacor, Cadis i Putxet",C Putxet,1,el Putxet i el Farró,Sarrià-Sant Gervasi,8006,41.40413124648985,2.142225615431341,1
+269,Museu Frederic Marès,Plaça de Sant Iu,5,el Barri Gòtic,Ciutat Vella,8002,41.38420549734736,2.17695685162379,3
+270,El Polvorí i Cos de Guàrdia,C Segura,34,la Marina de Port,Sants-Montjuïc,8038,41.36464604706291,2.1428603946607967,1
+271,Biblioteca Montserrat Abelló,Carrer dels Comtes de Bell-lloc,192,les Corts,Les Corts,8014,41.38373133027636,2.1353058454350444,1
+272,Residència Salesiana Martí Codolar,Av Cardenal Vidal i Barraquer,15,la Vall d'Hebron,Horta-Guinardó,8035,41.42844354375264,2.150872845796388,1
+273,Institut Nacional d'Educació Física de Catalunya *Barcelona,Av Estadi,12,el Poble-sec,Sants-Montjuïc,8038,41.36537462912623,2.146913285556539,1
+274,Museu del Perfum - Fundació Planas Giralt,Pg Gràcia,39,la Dreta de l'Eixample,Eixample,8007,41.39150740418814,2.1652454674735444,3
+275,Fundació Orfeó Gracienc,C Astúries,83,la Vila de Gràcia,Gràcia,8024,41.40473413928816,2.156423120771882,1
+276,Parròquia de Sant Joan de Gràcia,C Santa Creu,2,la Vila de Gràcia,Gràcia,8024,41.40533710606837,2.1567122726022543,1
+277,Museu Marítim de Barcelona,Avinguda de les Drassanes,1,el Raval,Ciutat Vella,8001,41.37598140054482,2.176059209800324,1
+278,Camisseria Bonet,C Rambla,72,el Barri Gòtic,Ciutat Vella,8002,41.38079964125222,2.173883382684312,5
+279,Casa Doctor Genové,C Rambla,77,el Raval,Ciutat Vella,8002,41.38142514089113,2.172823440207982,5
+280,Casa Domènech i Estapà,C València,241,la Dreta de l'Eixample,Eixample,8007,41.39228681466528,2.1625666401735337,3
+281,El Born Centre de Cultura i Memòria,Plaça Comercial,12,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,8003,41.38567300413077,2.183585604443325,2
+282,Vall d'Hebron Barcelona Hospital Campus,Pg Vall d'Hebron,119,Montbau,Horta-Guinardó,8035,41.42804943371883,2.1434499797388105,1
+283,Parc de Can Sabaté,C Mineria,16,la Marina de Port,Sants-Montjuïc,8038,41.36437449049291,2.137749555318519,1
+284,Casa Thomas,Mallorca,291,la Dreta de l'Eixample,Eixample,8037,41.396575960771365,2.1656125429824926,3
+285,Associació Eix Comercial de Sant Andreu,C Rubén Darío,37,Sant Andreu,Sant Andreu,8030,41.434185469214114,2.188035443482585,1
+286,Monestir de Santa Maria de Valldonzella,C Císter,41,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,8022,41.41187688269558,2.131008959069784,1
+287,El passatge de Mallofré,Ptge Mallofré,2,Sarrià,Sarrià-Sant Gervasi,8034,41.39853989512908,2.1219274312322,1
+288,La plaça de Sant Vicenç,Pl Sant Vicenç de Sarrià,1,Sarrià,Sarrià-Sant Gervasi,8017,41.39722392491163,2.124081785024859,1
+289,Plaça de Rovira i Trias,Pl Rovira i Trias,3,la Vila de Gràcia,Gràcia,8024,41.40746803755208,2.158608041169958,2
+290,Plaça de la Revolució,Pl Revolució de Setembre 1868,4,la Vila de Gràcia,Gràcia,8012,41.40283072894955,2.158258723259312,2
+291,Torre Montjuïc Calatrava,Pg Minici Natal,8,el Poble-sec,Sants-Montjuïc,8038,41.36478660504145,2.1516565451460616,1
+292,Colònia Busquets,Ctra Església,2,"Vallvidrera, el Tibidabo i les Planes",Sarrià-Sant Gervasi,8017,41.41369557781431,2.104502955711604,1
+293,Fàbrica Sanchís,Pg Enric Sanchis,21,el Bon Pastor,Sant Andreu,8030,41.434973842831134,2.205388440533967,1
+294,Torre d'Aigües de Carrasco i Formiguera,Via Augusta,356,Sarrià,Sarrià-Sant Gervasi,8017,41.401274235562326,2.122852491250377,1
+295,Torre del Doctor Andreu,Av Tibidabo,17,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,8022,41.411850643734354,2.135695010644845,1
+296,Conservatori Municipal de Música de Barcelona,C Bruc,110,la Dreta de l'Eixample,Eixample,8009,41.39590030798757,2.168037120807808,3
+297,Centre Educatiu Thau,Av Esplugues,49,Pedralbes,Les Corts,8034,41.38764005512567,2.10528876791072,1
+298,Cementiri Sant Genís,Saldes,3,Sant Genís dels Agudells,Horta-Guinardó,8035,41.427982136658734,2.1365982986152545,1
+299,Fàbrica de Creació Ateneu Popular 9 Barris,C Portlligat,11,la Trinitat Nova,Nou Barris,8042,41.44877310192653,2.180410246679443,1
+300,Parròquia de Sant Genís dels Agudells,C Saldes,3,Sant Genís dels Agudells,Horta-Guinardó,8035,41.427982136658734,2.1365982986152545,1
+301,La Sardineta. Grup d'Ecoconsum de la Barceloneta,C Cermeño,7,la Barceloneta,Ciutat Vella,8003,41.38162858085352,2.1905140138060823,1
+302,Museu Reial Monestir de Santa Maria de Pedralbes,Baixada del Monestir,9,Pedralbes,Les Corts,8034,41.39560516575995,2.1120750845469174,1
+303,Reial Club de Tennis Barcelona - 1899,C Bosch i Gimpera,5,Pedralbes,Les Corts,8034,41.39369047981739,2.118331914254848,1
+304,Parròquia de Santa Maria del Remei,Pl Concòrdia,1,les Corts,Les Corts,8014,41.386892522386965,2.132098891535344,1
+305,Memorial en Record de les Víctimes de Trànsit,Passeig Marítim del Bogatell,82,el Poblenou,Sant Martí,8005,41.39460267821261,2.20675449785976,1
+306,Platja de la Mar Bella,Passeig Marítim de la Mar Bella,104,Diagonal Mar i el Front Marítim del Poblenou,Sant Martí,8005,41.39857924467329,2.2123276980931683,1
+307,Consell Municipal del Districte de Sants-Montjuïc,Carrer de la Creu Coberta,104,Hostafrancs,Sants-Montjuïc,8014,41.3754087791269,2.142274392316013,2
+308,"El Campus Nord, Ciutat Universitària",C Jordi Girona,4,Pedralbes,Les Corts,8034,41.38716753611742,2.112824395389949,1
+309,Edifici MediaTIC,Carrer de Roc Boronat,117,el Parc i la Llacuna del Poblenou,Sant Martí,8018,41.40267993266015,2.1944666095628262,1
+310,Palau Robert - Centre d'Informació de Catalunya,Pg Gràcia,107,la Dreta de l'Eixample,Eixample,8008,41.396132216710285,2.159531980047189,3
+311,Residència Assistencial per a Gent Gran Refugi d'Obreres,Av República Argentina,16,Vallcarca i els Penitents,Gràcia,8023,41.40830297314985,2.1482112139978766,2
+312,Parròquia de la Santíssima Trinitat,C Turó de la Trinitat,30,la Trinitat Vella,Sant Andreu,8033,41.45031653850258,2.190479987134713,1
+313,La Gran Via de Carles III,G.V. Carles III,60,les Corts,Les Corts,8028,41.38359761148749,2.128056674070894,1
+314,La plaça de la Concòrdia,Pl Concòrdia,-2147483648,les Corts,Les Corts,8014,41.38653963624162,2.132091361234996,1
+315,La Porta Sud de la Finca Güell,C Lluís Solé i Sabarís,1,la Maternitat i Sant Ramon,Les Corts,8028,41.384912355918026,2.1189006112022293,1
+316,La Plaça dels Indians,C Garcilaso,140,el Congrés i els Indians,Sant Andreu,8027,41.42345483645125,2.182535991490844,1
+317,Museu d'Arqueologia de Catalunya,Passeig de Santa Madrona,39,el Poble-sec,Sants-Montjuïc,8038,41.370185413245146,2.1576640200328425,1
+318,Antiga Foneria de Canons,C Rambla,2,el Barri Gòtic,Ciutat Vella,8002,41.37692960265057,2.177040671271692,2
+319,Carrer de la Riereta,C Riereta,1,el Raval,Ciutat Vella,8001,41.37926084805356,2.1669844143365613,2
+320,Casa -Fàbrica Vermell-Martí,C Jonqueres,10,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,8003,41.3882604557891,2.174179225423808,3
+321,El Vapor  - Fàbrica Bonaplata,C Tallers,75,el Raval,Ciutat Vella,8001,41.38494614000927,2.1667630471377124,4
+322,Església Antic Institut Mental,C Marie Curie,8,la Guineueta,Nou Barris,8042,41.43699356015132,2.1691554098488184,1
+323,OikoCrèdit Catalunya,C Casp,43,la Dreta de l'Eixample,Eixample,8010,41.39204185286289,2.174070233465704,4
+324,Cooperativa La Guardiola Familiar,C Borriana,54,Sant Andreu,Sant Andreu,8030,41.43056706573951,2.191828973297836,1
+325,Pavelló de Ràdio Barcelona al Parc d'Atraccions del Tibidabo,Carretera de Vallvidrera al Tibidabo,101,"Vallvidrera, el Tibidabo i les Planes",Sarrià-Sant Gervasi,8035,41.42410490506085,2.1193142250845742,1
+326,Torre d'Ignacio Portabella,Av Tibidabo,27,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,8022,41.41281169827556,2.134981213630846,1
+327,El Jardí Vertical,C Berlín,107,les Corts,Les Corts,8029,41.38512796595028,2.141744623609296,1
+328,Casa Hurtado,Av Pedralbes,46,Pedralbes,Les Corts,8034,41.39242149167882,2.11632547019372,1
+329,Casa Comalat,Av Diagonal,442,la Dreta de l'Eixample,Eixample,8037,41.39708330346533,2.1607220347024616,3
+330,Avinguda de la Catedral,Avinguda de la Catedral,1,el Barri Gòtic,Ciutat Vella,8002,41.38454711222467,2.175276073454244,3
+331,Avinguda Maria Cristina,Avinguda de la Reina Maria Cristina,1,el Poble-sec,Sants-Montjuïc,8004,41.37303257656836,2.1510148596954752,1
+332,Carrer Martí  i Franqués,Carrer de Martí i Franquès,1,la Maternitat i Sant Ramon,Les Corts,8028,41.38506372270052,2.1179021240670406,1
+333,Fundació Joan Brossa,Carrer de Flassaders,40,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,8003,41.385220679624325,2.1823673277242177,2
+334,Cereria Subirà,Bda Llibreteria,7,el Barri Gòtic,Ciutat Vella,8002,41.38381148695298,2.1780445376953748,3
+335,L'Hort del Cànem,Carrer de la Llacuna,31,el Poblenou,Sant Martí,8005,41.399139584728125,2.200783316686378,2
+336,La plaça del Poble Romaní,Plaça del Poble Gitano,-2147483648,la Vila de Gràcia,Gràcia,8012,41.40183443187985,2.160694112661664,2
+337,Villa Esperanza,Ptge Isabel,8,Vallcarca i els Penitents,Gràcia,8023,41.41363246951804,2.1463762410352865,1
+338,Colònia Bausili,C Colònia Bausili,3,la Marina del Prat Vermell,Sants-Montjuïc,8038,41.35303880848997,2.1435520408982858,1
+339,Carrer Avió Plus Ultra,C Avió Plus Ultra,1,Sarrià,Sarrià-Sant Gervasi,8017,41.40033306045677,2.122019654847453,1
+340,Centre Cívic Torre Llobeta,Carrer de Santa Fe,2,Vilapicina i la Torre Llobeta,Nou Barris,8031,41.42693150965028,2.173966250593847,1
+341,Restaurant El Asador de Aranda *Av Tibidabo,Av Tibidabo,31,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,8022,41.41349245462937,2.1344802209567293,1
+342,Bar Colòmbia,Rbla Fabra i Puig,1,Sant Andreu,Sant Andreu,8030,41.43001110132735,2.1895226462085007,1
+343,El camp de la Creu,Pl Carme,1,les Corts,Les Corts,8029,41.38876352398029,2.140180281885298,1
+344,Ca l'Estruc- Convent de les Germanes de l'Assumpció,C Pons i Gallarza,30,Sant Andreu,Sant Andreu,8030,41.43553951634989,2.1880199202730286,1
+345,Botiga Casa Rusca,C Gran de Sant Andreu,135,Sant Andreu,Sant Andreu,8030,41.431621867432426,2.1892871049773523,1
+346,La Mina Grott,Camí del Cama-sec,22,"Vallvidrera, el Tibidabo i les Planes",Sarrià-Sant Gervasi,8017,41.41529444742222,2.097545489732037,1
+347,Casa Manuel Colchero,C Camèlies,34,el Camp d'en Grassot i Gràcia Nova,Gràcia,8024,41.41156230116295,2.160231915914634,1
+348,Casa Miquel Cal Millàs,C Vallfogona,18,la Vila de Gràcia,Gràcia,8012,41.4031305099263,2.157560504523872,2
+349,Casa Pere Jaqués,C Olot,2,la Salut,Gràcia,8024,41.41285094265032,2.1523783933834846,1
+350,Casa Ramos,Pl Lesseps,30,el Putxet i el Farró,Sarrià-Sant Gervasi,8023,41.4061899908628,2.149575785577088,1
+351,Cases Antoni Par,C Gran de Gràcia,262,la Vila de Gràcia,Gràcia,8012,41.40569413888112,2.1506275018499315,2
+352,Cases de menestrals,C Tordera,14,la Vila de Gràcia,Gràcia,8012,41.40077634268316,2.160468302707204,2
+353,Cases Folguera,Trav Gràcia,184,la Vila de Gràcia,Gràcia,8012,41.40193073549308,2.158860787647023,2
+354,Edifici Modernista Avinguda República Argentina 28,Av República Argentina,28,Vallcarca i els Penitents,Gràcia,8023,41.408491676806655,2.147416989049893,2
+355,Parc de la Primavera,C Nou de la Rambla,203,el Poble-sec,Sants-Montjuïc,8004,41.37046396116055,2.1658337161656225,1
+356,La Plaça de Sant Jaume,Pl Sant Jaume,1,el Barri Gòtic,Ciutat Vella,8002,41.38254213182859,2.1771735683501343,3
+357,El carrer de Bonavista,C Bonavista,1,la Vila de Gràcia,Gràcia,8012,41.39773291366716,2.1587099305698554,3
+358,El Vapor Nou,Plaça del Poble Gitano,-2147483648,la Vila de Gràcia,Gràcia,8012,41.40183443187985,2.160694112661664,2
+359,Kasa de la Muntanya (KM),Av Santuari St Josep Muntanya,19,la Salut,Gràcia,8024,41.41043997027809,2.154195493067497,1
+360,Àntiga Fàbrica de Làmpares Z,Pg Zona Franca,185,la Marina de Port,Sants-Montjuïc,8038,41.36098326639913,2.1378661758058857,1
+361,La Lleialtat Santsenca,Carrer d'Olzinelles,31,Sants,Sants-Montjuïc,8014,41.37291765088582,2.13669817907462,1
+362,Casa Josep Barnoles - La del Mico i el Gos,C Camèlies,40,el Camp d'en Grassot i Gràcia Nova,Gràcia,8024,41.4116517136051,2.160396764857864,1
+363,La rambla del Prat,Rbla Prat,1,la Vila de Gràcia,Gràcia,8012,41.4018619863958,2.152769925875062,1
+364,Masoveria de la Virreina,C Sant Lluís,1,la Vila de Gràcia,Gràcia,8012,41.40418669162275,2.1582068161840007,1
+365,Centre Penitenciari Obert 2  - Presó de Dones de la Trinitat,C Pare Manjón,2,la Trinitat Vella,Sant Andreu,8033,41.45352852329394,2.191463299081721,1
+366,MUHBA Museu d'Història de Barcelona - Casa de l'Aigua,Carretera de Ribes,103,la Trinitat Vella,Sant Andreu,8033,41.45463864239669,2.189729096932418,1
+367,Farmàcia Guinart Gómez de Arteche,Carrer Gran de Sant Andreu,306,Sant Andreu,Sant Andreu,8030,41.43709201717535,2.18973464583348,1
+368,Plaça de la Mercè,Plaça de la Mercè,1,el Barri Gòtic,Ciutat Vella,8002,41.37939878522798,2.1795617635934748,3
+369,Jardins de Portolà,C Portolà,5,el Putxet i el Farró,Sarrià-Sant Gervasi,8023,41.410819046980855,2.14255769920195,1
+370,Mural de la Memòria de Baró de Viver,Pg Santa Coloma,98,Baró de Viver,Sant Andreu,8030,41.44781298649119,2.1984226201584325,1
+371,Escola Business Engineering School - la Salle,C Lluçanès,41,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,8022,41.40890993792351,2.131137058699619,1
+372,Sarrià,C Major de Sarrià,63,Sarrià,Sarrià-Sant Gervasi,8017,41.398258662470965,2.122321214645502,1
+373,Centre Cívic Vil·la Florida,Carrer de Muntaner,544,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,8022,41.40536533899808,2.135308972460361,1
+374,El passatge de l'Esperança,Ptge Esperança,5,Vilapicina i la Torre Llobeta,Nou Barris,8016,41.42909687213159,2.176942405239261,1
+375,Casa de la Lactància,G.V. Corts Catalanes,475,la Nova Esquerra de l'Eixample,Eixample,8015,41.38013155447215,2.155454935741646,2
+376,Esplai Tr3smon,C Mare de Déu de Port,279,la Marina de Port,Sants-Montjuïc,8038,41.3598021106686,2.1417439533847342,1
+377,Moll de la Fusta *Escenari Besòs,Moll de Bosch i Alsina,1,el Barri Gòtic,Ciutat Vella,8039,41.37903656788792,2.1818329605717524,1
+378,Moll de la Fusta *Escenari Llobregat,Moll de Bosch i Alsina,1,el Barri Gòtic,Ciutat Vella,8039,41.37903656788792,2.1818329605717524,1
+379,Eix Comercial del Raval,C Nou de la Rambla,14,el Raval,Ciutat Vella,8001,41.37883670716191,2.173892474795089,4
+380,Jardins,G.V. Corts Catalanes,585,l'Antiga Esquerra de l'Eixample,Eixample,8007,41.386577028963096,2.16403049732852,3
+381,Jardins dels Drets Humans,C Foneria,19,la Marina de Port,Sants-Montjuïc,8038,41.36102656268191,2.1367088188150576,1
+382,Biblioteca Jaume Fuster,Plaça de Lesseps,20,Vallcarca i els Penitents,Gràcia,8023,41.40749096939712,2.149775202551298,1
+383,Centre Cívic Can Basté,Passeig de Fabra i Puig,274,el Turó de la Peira,Nou Barris,8031,41.4304874584176,2.173233437180801,1
+384,Farmàcia Franquesa Grau,Carrer Gran de Sant Andreu,260,Sant Andreu,Sant Andreu,8030,41.43515149016144,2.189772892493236,1
+385,Palau de Mar,Pl Pau Vila,1,la Barceloneta,Ciutat Vella,8039,41.38083864121991,2.1858736814996145,1
+386,Centre Cívic Casa Orlandai,Carrer de Jaume Piquet,23,Sarrià,Sarrià-Sant Gervasi,8017,41.39835999770311,2.1246720318706647,1
+387,Mercat Encants Barcelona - Fira de Bellcaire,Carrer de los Castillejos,158,el Fort Pienc,Eixample,8013,41.401063548775554,2.1856692459565465,1
+388,Cementiri Les Corts,Avinguda de Joan XXIII,3,la Maternitat i Sant Ramon,Les Corts,8028,41.38316853133116,2.1216835608063085,1
+389,Cementiri Sarrià,Camí del Cementiri de Sarrià,10,les Tres Torres,Sarrià-Sant Gervasi,8017,41.401007141442,2.1276081162893665,1
+390,Cementiri Poblenou,Avinguda d'Icària,204,el Poblenou,Sant Martí,8005,41.39459329629175,2.201156811755032,1
+391,Parc de l'Espanya Industrial,Carrer de Muntadas,1,Sants,Sants-Montjuïc,8014,41.37653564822331,2.139874006322372,1
+392,Museu Palmero Arte,Judea,2,Sant Genís dels Agudells,Horta-Guinardó,8035,41.4252047837623,2.140179989039568,1
+393,Centre Municipal de Vela,Moll Gregal,33,la Vila Olímpica del Poblenou,Sant Martí,8005,41.38842104043444,2.2016968649217765,1
+394,Casa Faiol - Casa de la Papallona,Llança,20,la Nova Esquerra de l'Eixample,Eixample,8015,41.37663697598416,2.1502989534573564,2
+395,Associació de Comerciants del Carrer Gran de Gràcia,C Gran de Gràcia,134,la Vila de Gràcia,Gràcia,8012,41.40161537381029,2.1535740772253145,1
+396,Casa Lleó Morera,Pg Gràcia,35,la Dreta de l'Eixample,Eixample,8007,41.391311136498935,2.165491865898989,4
+397,Estadi Olímpic de Montjuïc Lluís Companys,Passeig Olímpic,17,el Poble-sec,Sants-Montjuïc,8038,41.36474508399185,2.1556813948675835,1
+398,Federació de Comerciants Barna Centre,Av Portal de l'Àngel,7,el Barri Gòtic,Ciutat Vella,8002,41.384987301167484,2.1737625883363,3
+399,Platja de la Barceloneta,Passeig Marítim de la Barceloneta - Oriol Bohigas,14,la Barceloneta,Ciutat Vella,8003,41.37861435600187,2.192222242417201,1
+400,Restaurant Can Cortada,Av Estatut de Catalunya,88,Horta,Horta-Guinardó,8035,41.43763336944127,2.1528053939918426,1
+401,Jardins Creu de Pedralbes,Av Pearson,2,Pedralbes,Les Corts,8034,41.39433185278547,2.1115767347502405,1
+402,Estació d'Autobusos Barcelona Nord,C Alí Bei,80,el Fort Pienc,Eixample,8013,41.394325719298415,2.182338154669274,1
+403,Portal Casa Miralles,Pg Manuel Girona,55,Sarrià,Sarrià-Sant Gervasi,8034,41.39211337098168,2.1274984374334376,1
+404,Jardins del Teatre Grec,Pg Santa Madrona,38,el Poble-sec,Sants-Montjuïc,8038,41.37014353208927,2.1586211285196573,1
+405,Castell dels Tres Dragons,Pg Picasso,5,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,8003,41.38811182882805,2.183385158220496,1
+406,CosmoCaixa Barcelona,Carrer d'Isaac Newton,26,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,8022,41.41329827278904,2.1306762762550275,1
+407,Escultura Mistos,Jorge Manrique,9,la Vall d'Hebron,Horta-Guinardó,8035,41.43084545648815,2.151482440531504,1
+408,Els Edificis Trade,G.V. Carles III,84,les Corts,Les Corts,8028,41.38617521617633,2.1279530224471386,1
+409,Carrer Aiguafreda,C Aiguafreda,1,Horta,Horta-Guinardó,8032,41.42673221154588,2.1594552433114487,1
+410,Parc Central de Nou Barris,Pl Major de Nou Barris,1,la Guineueta,Nou Barris,8042,41.4368445525108,2.1712296246319656,1
+411,Edifici Patronat Ribas,Pg Vall d'Hebron,93,Sant Genís dels Agudells,Horta-Guinardó,8035,41.422929218509935,2.1410866943487545,1
+412,Col·legi de Censors Jurats de Comptes de Catalunya,C Sor Eulàlia d'Anzizu,41,Pedralbes,Les Corts,8034,41.39041020339857,2.11279079824562,1
+413,Torre Jussana - Centre de Serveis a les Associacions,Av Cardenal Vidal Barraquer,30,la Clota,Horta-Guinardó,8035,41.42969190027591,2.15131477992075,1
+414,Servei d'Esports de la Universitat de Barcelona,Av Diagonal,695,la Maternitat i Sant Ramon,Les Corts,8028,41.38091965331625,2.1048310677132447,1
+415,Hotel Melia Barcelona Sky - HB-004358,C Pere IV,272,el Poblenou,Sant Martí,8005,41.40628819017893,2.200634797754356,2
+416,Teatre Nacional de Catalunya,Plaça de les Arts,1,el Fort Pienc,Eixample,8013,41.39971763958852,2.1861052566703805,1
+417,Casa de les Altures,Rda Guinardó,49,el Baix Guinardó,Horta-Guinardó,8024,41.41279780128245,2.166481155557753,1
+418,Torre de les Aigües del Besòs,Plaça de Ramon Calsina,1,Diagonal Mar i el Front Marítim del Poblenou,Sant Martí,8019,41.405450920442256,2.212560936198963,1
+419,Parc de Diagonal Mar,Carrer de Llull,356,Diagonal Mar i el Front Marítim del Poblenou,Sant Martí,8019,41.40849031137141,2.212231951523546,1
+420,Centre Cívic Can Deu,Plaça de la Concòrdia,13,les Corts,Les Corts,8014,41.38679400774151,2.1325216465394625,1
+421,Centre d'Arts Santa Mònica,Carrer la Rambla,7,el Raval,Ciutat Vella,8002,41.37725882473504,2.175614994736913,2
+422,Fundació Privada Centre de Producció Artística i Cultural Palo Alto,C Pellaires,30,Diagonal Mar i el Front Marítim del Poblenou,Sant Martí,8019,41.40453754416711,2.210261414480815,1
+423,"El camí de Finestrelles, i el mirador",Camí Finestrelles,2,Pedralbes,Les Corts,8034,41.38716645323706,2.1013080275694787,1
+424,El passeig de Sant Gervasi,Pg Sant Gervasi,1,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,8022,41.40714994709702,2.1338555488054234,1
+425,El Submarí de la Ronda,C Isaac Newton,28,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,8022,41.41314852899548,2.1305194357974724,1
+426,Cooperativa La Confiança Andreuenca,C Pons i Gallarza,103,Sant Andreu,Sant Andreu,8030,41.43555564633071,2.185313624433327,1
+427,Quarter Bruc,Av Exèrcit,1,Pedralbes,Les Corts,8034,41.38730794999315,2.110666688042147,1
+428,Oratori de Sant Felip Neri *Gràcia,C Sol,8,la Vila de Gràcia,Gràcia,8012,41.40200153642768,2.1556884231723648,2
+429,Cooperativa Obrera Popular Segle XX,C Atlàntida,1,la Barceloneta,Ciutat Vella,8003,41.38164663472414,2.189153267840029,1
+430,La Maquinista Terrestre i Marítima,Pl Pompeu Gener,1,la Barceloneta,Ciutat Vella,8003,41.38164285238863,2.1907168710652614,1
+431,Unió de Cooperatives per a la Fabricació de Pastes per a Sopa,C Aurora,11,el Raval,Ciutat Vella,8001,41.37867570317367,2.1681069096683667,2
+432,Casa Sarriera,C Palma de Sant Just,8,el Barri Gòtic,Ciutat Vella,8002,41.382407945809554,2.178630636272102,3
+433,Jardins Mestre Balcells,C Sant Salvador,49,la Vila de Gràcia,Gràcia,8024,41.40737937950329,2.1540303051961045,1
+434,Roca Barcelona Gallery,C Joan Güell,211,les Corts,Les Corts,8028,41.38664570242304,2.12923065792945,1
+435,Cooperativa La Flor de Maig - sucursal núm. 7,C Martí Molins,10,la Sagrera,Sant Andreu,8027,41.42411451151167,2.1903109078509257,1
+436,Museu d'Autòmats del Tibidabo,Pl Tibidabo,3,"Vallvidrera, el Tibidabo i les Planes",Sarrià-Sant Gervasi,8035,41.42160921227461,2.1187341412289142,1
+437,La plaça de la Bonanova,Pl Bonanova,-2147483648,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,8022,41.40638150826275,2.13417851476007,1
+438,La plaça del Doctor Andreu,Pl Doctor Andreu,-2147483648,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,8035,41.416304021052255,2.1314166234616936,1
+439,Places de Joaquim Folguera i Frederic Soler,Pl Joaquim Folguera,-2147483648,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,8022,41.405429245723575,2.1389166559414923,1
+440,El Conjunt Residencial de Les Escales Park,C Sor Eulàlia d'Anzizu,38,Pedralbes,Les Corts,8034,41.39204783587929,2.1153886541782843,1
+441,El passatge de Tubella,Ptge Tubella,1,les Corts,Les Corts,8014,41.38372383321053,2.135927755117388,1
+442,Colònia Carné,Av Sant Ramon Nonat,22,la Maternitat i Sant Ramon,Les Corts,8028,41.376822310380064,2.117058367742885,1
+443,'La Masia' del Barça,Av Joan XXIII,2,la Maternitat i Sant Ramon,Les Corts,8028,41.38164275556459,2.1215489678471395,1
+444,"""Vivendes"" del Congrés Eucarístic",Pl Congrés Eucarístic,7,el Congrés i els Indians,Sant Andreu,8027,41.42583306266904,2.181536675794661,1
+445,Antiga Biblioteca Infantil del GATCPAC,Pl Palmeres,2,Sant Andreu,Sant Andreu,8030,41.43240704975568,2.186285451200647,1
+446,Cases Barates del Bon Pastor,C Bellmunt,28,el Bon Pastor,Sant Andreu,8030,41.437833660964266,2.206192154035402,1
+447,Rambla de Fabra i Puig,C Concepción Arenal,211,Sant Andreu,Sant Andreu,8030,41.43035899926197,2.184527163310618,1
+448,Parròquia de Sant Ramon Nonat,Av Sant Ramon Nonat,1,la Maternitat i Sant Ramon,Les Corts,8028,41.37603719947376,2.11709281902244,1
+449,Parc de Cervantes,Av Diagonal,706,Pedralbes,Les Corts,8034,41.38456852873158,2.1094394046493576,1
+450,Casa Calvet,C Casp,48,la Dreta de l'Eixample,Eixample,8010,41.39096800710249,2.1730144223801227,4
+451,La plaça de Pedralbes,Pl Pedralbes,-2147483648,Pedralbes,Les Corts,8034,41.395729151007615,2.114218062249275,1
+452,Eix Comercial del Poblenou,C Pallars,224,el Poblenou,Sant Martí,8005,41.40261966913898,2.199899590115794,1
+453,La Torre Blanca,Pg Til·lers,1,Pedralbes,Les Corts,8034,41.38946749792317,2.11876260601679,1
+454,Pilar d'Aigua de Sant Andreu,C Llenguadoc,95,Sant Andreu,Sant Andreu,8030,41.430359925789794,2.1852706828435733,1
+455,La Plaça de les Havaneres,C Jordi de Sant Jordi,5,el Congrés i els Indians,Sant Andreu,8027,41.42125404672892,2.1826779224213384,1
+456,Parròquia de Santa Teresa de l'Infant Jesús,Via Augusta,68,la Vila de Gràcia,Gràcia,8006,41.40051175642841,2.151808582444108,2
+457,Associació Xarxa de Consum Solidari,Pl Sant Agustí Vell,15,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,8003,41.38787517688739,2.1807053172955464,2
+458,Universitat Nacional d'Educació a Distància *Barcelona,Av Rio de Janeiro,56,Porta,Nou Barris,8016,41.4364657200984,2.180455235272232,1
+459,Casa Bonaventura Ferrer,Pg Gràcia,113,la Vila de Gràcia,Gràcia,8008,41.39697639977114,2.158479593916247,3
+460,Escola Superior d'Administració i Direcció d'Empreses - URL,Av Pedralbes,60,Pedralbes,Les Corts,8034,41.39374137478776,2.11450041725389,1
+461,Federació de Comerç Cor d'Horta,Carrer de Dante Alighieri,13,Horta,Horta-Guinardó,8032,41.42896711720995,2.1618184204004605,1
+462,Cases Blanques,C Vayreda,24,Montbau,Horta-Guinardó,8035,41.43148809165625,2.140820837872433,1
+463,Refugi Antiaeri de Can Peguera,C Cornudella,45,el Turó de la Peira,Nou Barris,8031,41.43411211194424,2.165334527114244,1
+464,Finca Sansalvador,Pg Mare de Déu del Coll,79,el Coll,Gràcia,8023,41.418944974567545,2.1483588431746647,1
+465,Habitatge Classicista Providència 79,C Providència,79,la Vila de Gràcia,Gràcia,8024,41.40819331103934,2.159386623420811,2
+466,Torre del Rellotge,Pl Bonet i Muixí,3,Sants,Sants-Montjuïc,8014,41.374324400951934,2.1367036614916595,1
+467,Eina - Escola de Disseny i Art,Pg Santa Eulàlia,25,Sarrià,Sarrià-Sant Gervasi,8017,41.40287986302204,2.1143338057522336,1
+468,Parròquia de Sant Gregori Taumaturg,Pl Sant Gregori Taumaturg,-2147483648,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,8021,41.39422199323784,2.138413658076152,1
+469,Monestir de Sant Pau del Camp,C Sant Pau,99,el Raval,Ciutat Vella,8001,41.37650076335756,2.16931450249219,2
+470,Sala Lliure de Gràcia,C Montseny,47,la Vila de Gràcia,Gràcia,8012,41.40276104987048,2.156031064034744,1
+471,Centre Educatiu Jesús i Maria *Passeig Sant Gervasi,Pg Sant Gervasi,15,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,8022,41.409626762607445,2.1321227367298,1
+472,Parròquia de Maria Reina,Av Esplugues,103,Pedralbes,Les Corts,8034,41.39269599560135,2.111486130409106,1
+473,Centre Cívic Cotxeres de Sants,Carrer de Sants,79,Sants,Sants-Montjuïc,8014,41.37529848802473,2.136897693555585,1
+474,Hort Urbà Masia Can Mestres,Camí Can Clos,1,la Marina de Port,Sants-Montjuïc,8038,41.35971541159925,2.145157408726708,1
+475,Masia Can Rosés,C Deu i Mata,49,les Corts,Les Corts,8029,41.38827496816368,2.1348326553076955,1
+476,Consell Municipal del Districte de Sant Andreu,Plaça d'Orfila,1,Sant Andreu,Sant Andreu,8030,41.43602805111317,2.190607338298738,1
+477,El passeig de Sant Joan,Pg Sant Joan,118,la Dreta de l'Eixample,Eixample,8037,41.40053820160704,2.168556539279617,1
+478,La plaça de la Vila de Gràcia,Pl Vila de Gràcia,3,la Vila de Gràcia,Gràcia,8012,41.40038030274788,2.1575252768954654,2
+479,El Congrés i els Indians,C Pinar del Río,56,el Congrés i els Indians,Sant Andreu,8027,41.42267428633185,2.1801325133211784,1
+480,El Quadrat d'Or,C Consell de Cent,353,la Dreta de l'Eixample,Eixample,8007,41.39176911227801,2.166394367405672,3
+481,El 22@,C Roc Boronat,113,el Parc i la Llacuna del Poblenou,Sant Martí,8018,41.40196782553371,2.1954426698372225,1
+482,L'Estació de La Sagrera,C Hondures,76,la Sagrera,Sant Andreu,8027,41.42192407346947,2.187378057190909,1
+483,La Muralla Romana,Pl Ramon Berenguer el Gran,3,el Barri Gòtic,Ciutat Vella,8002,41.384336103363474,2.1775827025795835,3
+484,Gran Teatre del Liceu,C la Rambla,51,el Raval,Ciutat Vella,8002,41.38014677441643,2.1733467293401083,5
+485,Carrer de les Monges,C Monges,10,Sant Andreu,Sant Andreu,8030,41.430689656123576,2.187943106250125,1
+486,Carrer Gran de Sant Andreu,C Malats,26,Sant Andreu,Sant Andreu,8030,41.43612543255933,2.1898796475568005,1
+487,Foment Republicà de Sants. Antic Ateneu Batllori,C Cros,7,Sants,Sants-Montjuïc,8014,41.37489008455715,2.1380612359989244,1
+488,Molí de Sant Andreu - Rec Comtal,C Andana de l'Estació,22,Sant Andreu,Sant Andreu,8030,41.4430658938174,2.194021800571192,1
+489,Monument a Cristòfol Colom,Plaça del Portal de la Pau,1,el Raval,Ciutat Vella,8001,41.375981756802304,2.1760573876381613,1
+490,Escultura Josep Anselm Clavé,Pg Sant Joan,198,el Camp d'en Grassot i Gràcia Nova,Gràcia,8037,41.404090634245215,2.1638663854194364,1
+491,IL3 Institut de Formació Contínua - Universitat de Barcelona,C Ciutat de Granada,131,el Parc i la Llacuna del Poblenou,Sant Martí,8018,41.40277794946353,2.192149004479941,1
+492,Jardins del  Baix Guinardó,C Marina,372,el Baix Guinardó,Horta-Guinardó,8025,41.40977850723608,2.1686584215423337,1
+493,Base Nàutica Municipal de la Mar Bella,Pg Marítim del Bogatell,102,Diagonal Mar i el Front Marítim del Poblenou,Sant Martí,8005,41.396535352091554,2.2097712400521687,1
+494,Cementiri Sant Gervasi,Camí del Cementiri de Sant Gervasi,4,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,8035,41.4111553532629,2.1266252111412056,1
+495,Cementiri d'Horta,Plaça del Cementiri d'Horta,9,Horta,Horta-Guinardó,8035,41.4404241840174,2.156066057589674,1
+496,Centre Comercial El Centre de la Vila,C Salvador Espriu,61,la Vila Olímpica del Poblenou,Sant Martí,8005,41.39092742219698,2.1978686794906324,1
+497,Federació Eix Comercial Sants-Les Corts,C Melcior de Palau,77,Sants,Sants-Montjuïc,8014,41.37978352954445,2.134518536891389,1
+498,Jardins d'Elvira Farreras Valentí,C Manacor,17,el Putxet i el Farró,Sarrià-Sant Gervasi,8023,41.407464947326254,2.1430348062786257,1
+499,Parc de la Pegaso,C Sagrera,179,la Sagrera,Sant Andreu,8027,41.42688804853376,2.190739286407059,1
+500,Parròquia de Sant Pacià,C Monges,27,Sant Andreu,Sant Andreu,8030,41.43166813631246,2.1875874021734294,1
+501,Edifici Torre Telefònica - Diagonal Zero Zero,Pl Ernest Lluch i Martín,5,el Besòs i el Maresme,Sant Martí,8019,41.412170224245294,2.2212484484505435,1
+502,Museu,Carrer d'Aragó,255,la Dreta de l'Eixample,Eixample,8007,41.39155351265377,2.1637754588196367,3
+503,Parròquia de Santa Maria del Mar - Basílica,Pl Santa Maria,1,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,8003,41.38378222100999,2.182224949880879,3
+504,Ateneu de Fabricació Digital de Les Corts,Carrer d'Evarist Arnús,59,les Corts,Les Corts,8014,41.38355424224072,2.1355597687429912,1
+505,Platja del Bogatell,Pg Marítim del Bogatell,80,el Poblenou,Sant Martí,8005,41.39460267821261,2.20675449785976,1
+506,Parc de les Rieres d'Horta,Av Estatut de Catalunya,21,la Clota,Horta-Guinardó,8035,41.43107919974659,2.154259435001784,1
+507,Palau Reial de Pedralbes,Av Diagonal,686,Pedralbes,Les Corts,8034,41.38654937434819,2.1184352989192647,1
+508,Escola la Farigola de Vallcarca,C Sant Camil,31,Vallcarca i els Penitents,Gràcia,8023,41.4138319736047,2.146680968580762,1
+509,Església del Reial Santuari de Sant Josep de la Muntanya,Av Santuari St Josep Muntanya,25,la Salut,Gràcia,8024,41.41043997027809,2.154195493067497,1
+510,Masia Can Fargas,Pg Maragall,383,la Font d'en Fargues,Horta-Guinardó,8032,41.42760361480803,2.164467317118893,1
+511,Ateneu Popular de Sants,Premià,15,Sants,Sants-Montjuïc,8014,41.37650856330917,2.1388908758746004,2
+512,Font Hércules,Pg Sant Joan,152,el Camp d'en Grassot i Gràcia Nova,Gràcia,8037,41.40222084859364,2.166334830386844,1
+513,Castell de Torre Baró,Carretera Alta de les Roquetes,309,Torre Baró,Nou Barris,8033,41.45079189503227,2.1761305165721443,1
+514,Fàbrica de Creació Graner,C Jane Addams,14,la Marina de Port,Sants-Montjuïc,8038,41.36152379729631,2.135975019779134,1
+515,Casa Lamadrid,Girona,113,la Dreta de l'Eixample,Eixample,8009,41.39694691705839,2.168180705255576,3
+516,Casa Garriga Nogués,Diputació,250,la Dreta de l'Eixample,Eixample,8007,41.38892310014807,2.165254832995529,3
+517,"Espai Gaudí: Pis, Golfes i Terrat",Provença,261,la Dreta de l'Eixample,Eixample,8008,41.39534759002927,2.162061079088016,3
+518,Associació Sarrià Eix Comercial,C Canet,20,Sarrià,Sarrià-Sant Gervasi,8017,41.39840201073239,2.122763546217199,1
+519,Sala El Molino,Carrer de Vila i Vilà,99,el Poble-sec,Sants-Montjuïc,8004,41.37458590109832,2.167271088906495,4
+520,Torre de Collserola,Ctra Vallvidrera Tibidabo,8,"Vallvidrera, el Tibidabo i les Planes",Sarrià-Sant Gervasi,8017,41.4158634160436,2.111785952453742,1
+521,Edifici Gas Natural,Pl Gas,1,la Barceloneta,Ciutat Vella,8003,41.38319342524216,2.190154390019234,1
+522,Refugi Antiaeri de la Sagrera,C Berenguer de Palou,64,la Sagrera,Sant Andreu,8027,41.42373640875645,2.191951961584244,1
+523,Carrer Campo Florido,C Campo Florido,9,el Congrés i els Indians,Sant Andreu,8027,41.42138115685976,2.182484957753459,1
+524,Parc de la Ciutadella,Passeig de Picasso,21,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,8003,41.38633657544665,2.185381778970792,1
+525,Carrer Coroleu,C Coroleu,42,Sant Andreu,Sant Andreu,8030,41.43298298344629,2.187190543503709,1
+526,Carrer Grau,C Grau,47,Sant Andreu,Sant Andreu,8030,41.438791640535136,2.187669352497476,1
+527,Carrer Manigua,C Garcilaso,200,el Congrés i els Indians,Sant Andreu,8027,41.423676546575145,2.1797396875918653,1
+528,Carrer Matanzas,C Matanzas,40,el Congrés i els Indians,Sant Andreu,8027,41.422752030928834,2.1821867084168733,1
+529,Menjadors populars del carrer Gran Sant Andreu (Guerra Civil),C Gran de Sant Andreu,176,Sant Andreu,Sant Andreu,8030,41.43272227205576,2.189397397119702,1
+530,Jardins de Ramon Margalef i López,Av Estadi,42,el Poble-sec,Sants-Montjuïc,8038,41.366093518468645,2.152965473661524,1
+531,Parc del Castell de l'Oreneta,C Montevideo,45,Sarrià,Sarrià-Sant Gervasi,8034,41.39940218424315,2.112199777559347,1
+532,Universitat de Barcelona,G.V. Corts Catalanes,585,l'Antiga Esquerra de l'Eixample,Eixample,8007,41.38657708352391,2.164030568391206,3
+533,Col·legi Oficial de Metges de Barcelona,Pg Bonanova,47,les Tres Torres,Sarrià-Sant Gervasi,8017,41.40423624177701,2.129341454867993,1
+534,Edifici Puiggròs,C Martínez de la Rosa,27,la Vila de Gràcia,Gràcia,8012,41.39966543105189,2.159260387163396,2
+535,"Xemeneia de l'antiga Fábrica ""La Porcelana""",Pl Joan Corrades,1,Hostafrancs,Sants-Montjuïc,8014,41.3730269153328,2.144526050663452,2
+536,Hospital del Mar,Passeig Marítim de la Barceloneta - Oriol Bohigas,25,la Barceloneta,Ciutat Vella,8003,41.38343360981441,2.1946836219941206,1
+537,Centre Esportiu Municipal Piscines Bernat Picornell,Av Estadi,30,el Poble-sec,Sants-Montjuïc,8038,41.36632923206704,2.1507934502236257,1
+538,Club Natació Atlètic - Barceloneta,Pl Mar,1,la Barceloneta,Ciutat Vella,8003,41.37344433423628,2.188684749719376,1
+539,Centre Cívic Casinet d'Hostafrancs,Carrer del Rector Triadó,53,Hostafrancs,Sants-Montjuïc,8014,41.37785807405672,2.1432215181756806,2
+540,Parc del Centre del Poblenou,Av Diagonal,130,Provençals del Poblenou,Sant Martí,8018,41.40679356695045,2.199757373643509,1
+541,Parròquia de la Mare de Déu de la Mercè i Sant Miquel Arcàngel - Basílica,Pl Mercè,1,el Barri Gòtic,Ciutat Vella,8002,41.379425179886205,2.1795802549065177,3
+542,Restaurant Dos Torres,Via Augusta,300,les Tres Torres,Sarrià-Sant Gervasi,8017,41.39795538977432,2.128704952652439,1
+543,Espai Jove La Fontana,C Gran de Gràcia,190,la Vila de Gràcia,Gràcia,8012,41.403342374883685,2.1528048898678125,1
+544,Casal de Barri Font d'en Fargues,C Pedrell,67,la Font d'en Fargues,Horta-Guinardó,8032,41.424333431530485,2.16524810902057,1
+545,Torre Castanyer,Pg Sant Gervasi,5,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,8022,41.4078488716108,2.134224907245418,1
+546,El passatge de Xile,Ptge Xile,1,la Maternitat i Sant Ramon,Les Corts,8028,41.37689172436965,2.116314819784081,1
+547,Els Jardins d'Eusebi Güell,Pl Eusebi Güell,-2147483648,Pedralbes,Les Corts,8034,41.39044758234289,2.114406406404082,1
+548,Centre de Convencions Internacional de Barcelona,Plaça de Willy Brandt,11,Diagonal Mar i el Front Marítim del Poblenou,Sant Martí,8019,41.40895159816792,2.218837323987452,1
+549,Torre Glòries,Av Diagonal,209,el Parc i la Llacuna del Poblenou,Sant Martí,8018,41.40347629324701,2.189815009628469,1
+550,Museu Picasso,Carrer de Montcada,15,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,8003,41.38518764927223,2.180853795205005,2
+551,Edifici Talaia Barcelona,Av Sarrià,71,les Corts,Les Corts,8029,41.39084065982191,2.1394911073808047,1
+552,Centre Cívic  Vil·la Urània,Carrer de Saragossa,29,el Putxet i el Farró,Sarrià-Sant Gervasi,8006,41.40144911965886,2.149816841793133,2
+553,Tinta Invisible Edicions,C Lleó,6,el Raval,Ciutat Vella,8001,41.3820675489832,2.165078437655472,2
+554,World Trade Center,Moll Barcelona,1,el Raval,Ciutat Vella,8039,41.37109064113994,2.182363675795396,1
+555,Centre Comercial Diagonal Mar,Av Diagonal,3,Diagonal Mar i el Front Marítim del Poblenou,Sant Martí,8019,41.41045744398306,2.216422759940968,1
+556,Centre Excursionista Els Blaus,Cornet i Mas,15,Sarrià,Sarrià-Sant Gervasi,8017,41.39817327414662,2.123617721295924,1
+557,Jardins de Massana,Felip II,216,el Congrés i els Indians,Sant Andreu,8027,41.42704189433845,2.1785261828350926,1
+558,Associació Sants Establiments Units,C Alcolea,16,Sants,Sants-Montjuïc,8014,41.376070955580914,2.136838762891396,1
+559,Casernes d'Artilleria  de Sant Andreu,Pg Torras i Bages,141,Sant Andreu,Sant Andreu,8030,41.44395793480302,2.19050806677001,1
+560,L'Estació dels FGC de Sarrià,C Cardenal Sentmenat,43,Sarrià,Sarrià-Sant Gervasi,8017,41.39829106263617,2.1250093275396296,1
+561,Escola Mossèn Jacint Verdaguer,C Lleida,32,el Poble-sec,Sants-Montjuïc,8004,41.37332070884572,2.1548243508911464,2
+562,Masia Ca l'Armera,C Cardenal Tedeschini,32,el Congrés i els Indians,Sant Andreu,8027,41.42562795245565,2.183215458926026,1
+563,Casa Vilaró,Av Coll del Portell,43,la Salut,Gràcia,8024,41.41136623661587,2.151433629959552,1
+564,Jardins del Rector Oliveras,Passatge del Rector Oliveras,2,la Dreta de l'Eixample,Eixample,8009,41.39479752399747,2.1678356444626248,2
+565,Centre Cívic El Coll - La Bruguera,Carrer de l'Aldea,15,el Coll,Gràcia,8023,41.41860650477411,2.149915320833742,1
+566,El Gòtic,C Paradís,1,el Barri Gòtic,Ciutat Vella,8002,41.38306559448666,2.177021839158883,3
+567,El Poblenou,C Pallars,221,el Poblenou,Sant Martí,8005,41.4022744450405,2.1990636882594146,1
+568,Sant Andreu,Pl Comerç,3,Sant Andreu,Sant Andreu,8030,41.43526902100959,2.190044472473194,1
+569,El nucli antic d'Horta,C Fulton,15,Horta,Horta-Guinardó,8032,41.42999427513082,2.161502292023968,1
+570,La plaça de Lesseps,Pl Lesseps,18,la Vila de Gràcia,Gràcia,8023,41.40771234565708,2.1510867322061435,1
+571,El Portal de l'Àngel,Av Portal de l'Àngel,21,el Barri Gòtic,Ciutat Vella,8002,41.38587859872714,2.172844151594492,3
+572,Casa Vidal,C Pons i Gallarza,1,Sant Andreu,Sant Andreu,8030,41.43535513459526,2.1894400450855307,1
+573,Can Mazantini,C Coroleu,73,Sant Andreu,Sant Andreu,8030,41.43314257686843,2.1846500856072804,1
+574,Parc de Can Rigal,Av Albert Bastardas,23,la Maternitat i Sant Ramon,Les Corts,8028,41.37932819241353,2.107739056786728,1
+575,Reial Club de Polo de Barcelona,Av Doctor Marañón,17,la Maternitat i Sant Ramon,Les Corts,8028,41.38128476293865,2.1144500349192548,1
+576,Pastisseria Escribà *La Rambla,C la Rambla,83,el Raval,Ciutat Vella,8002,41.381562357710784,2.1727040810941585,5
+577,Jardinets de Salvador Espriu,Pg Gràcia,118,la Vila de Gràcia,Gràcia,8008,41.39738205805117,2.159002039604903,3
+578,Parc de Recerca Biomèdica de Barcelona,C Doctor Aiguader,88,la Barceloneta,Ciutat Vella,8003,41.38557632373501,2.194017030461737,1
+579,Moll de la Fusta,Moll de Bosch i Alsina,1,el Barri Gòtic,Ciutat Vella,8039,41.37903656788792,2.1818329605717524,1
+580,Jardins de Can Sentmenat,C Can Caralleu,6,Sarrià,Sarrià-Sant Gervasi,8017,41.40262028359711,2.1151022927218386,1
+581,Fira Barcelona,Avinguda de la Reina Maria Cristina,2,el Poble-sec,Sants-Montjuïc,8004,41.37271799430611,2.150211222762335,1
+582,Escullera del Port de Barcelona,Pg Escullera,1,la Marina del Prat Vermell,Sants-Montjuïc,8039,41.3576877479369,2.179383881515306,1
+583,L'Aquàrium de Barcelona - Aspro Parks,Moll Espanya,5,el Barri Gòtic,Ciutat Vella,8039,41.376805369060136,2.1843840154597025,1
+584,Escola Massana Centre Municipal d'Art i Disseny,Plaça de la Gardunya,9,el Raval,Ciutat Vella,8001,41.38095398365772,2.1708053338176225,3
+585,Espai Contrabandos,C Junta de Comerç,18,el Raval,Ciutat Vella,8001,41.37967804801887,2.1715573555694325,4
+586,Universitat Oberta de Catalunya,Av Tibidabo,39,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,8035,41.41503478757256,2.1330244628789514,1
+587,Elisava Escola Universitaria de Disseny i Enginyeria de Barcelona,C la Rambla,30,el Barri Gòtic,Ciutat Vella,8002,41.37848959636991,2.176064541270459,4
+588,Escola Lluís Vives,C Canalejas,107,Sants - Badal,Sants-Montjuïc,8028,41.37186290045592,2.1280851779733574,1
+589,Centre Estudis Ignasi Iglesias,Carrer d'Ignasi Iglésias,33,Sant Andreu,Sant Andreu,8030,41.43356963877177,2.188130239920921,1
+590,Ateneu  Sant Andreu,Carrer de l'Abat Odó,71,Sant Andreu,Sant Andreu,8030,41.432489863907904,2.185303031458836,1
+591,Casal de Barri Can Portabella,C Virgili,18,Sant Andreu,Sant Andreu,8030,41.4291308751184,2.193936700525465,1
+592,Museu Nacional d'Art de Catalunya,C Mirador Palau Nacional,6,el Poble-sec,Sants-Montjuïc,8004,41.368885103834,2.1533812278994167,1
+593,Associació d'Empresaris i Professionals de la Rambla Catalunya,Rambla de Catalunya,25,la Dreta de l'Eixample,Eixample,8007,41.38896022036391,2.1660784791669774,4
+594,Centre Cívic Can Verdaguer,Carrer de Piferrer,94,Porta,Nou Barris,8016,41.43410459884157,2.1792048887112854,1
+595,Reials Drassanes de Barcelona,Av Drassanes,1,el Raval,Ciutat Vella,8001,41.375981756802304,2.1760573876381613,1
+596,Farmàcia Jordi de Bolós,Rbla Catalunya,77,la Dreta de l'Eixample,Eixample,8007,41.39166621624898,2.162424791257872,3
+597,Farmàcia Clapés Viñas,C Gran de Sant Andreu,211,Sant Andreu,Sant Andreu,8030,41.43381060796746,2.1892905825595,1
+598,Parc d'Atraccions del Tibidabo,Plaça del Tibidabo,3,"Vallvidrera, el Tibidabo i les Planes",Sarrià-Sant Gervasi,8035,41.42161843553102,2.118740285636823,1
+599,El Campus Raval - UB,C Montalegre,6,el Raval,Ciutat Vella,8001,41.38407718499735,2.166899934194828,2
+600,Mirador Joan Sales i Vallès,Carrer de Can Móra,1,Sarrià,Sarrià-Sant Gervasi,8034,41.4164324761916,2.1527937442494287,1
+601,Casa Gustà,C Ca l'Alegre de Dalt,72,el Camp d'en Grassot i Gràcia Nova,Gràcia,8024,41.41041608639633,2.160063116454555,1
+602,Casa Rubinat,C Or,44,la Vila de Gràcia,Gràcia,8012,41.40487709704659,2.157716680356859,1
+603,Casa Tomàs Valls,C Mare de Déu de la Salut,31,la Salut,Gràcia,8024,41.410989814046026,2.156053352602201,1
+604,La Plaça de Catalunya,Pl Catalunya,2,la Dreta de l'Eixample,Eixample,8002,41.38604507506723,2.1694182154496646,3
+605,Hotel Casa Fuster - HB-004219,Pg Gràcia,132,la Vila de Gràcia,Gràcia,8008,41.39801599366712,2.1580258846925444,3
+606,Casa Fargas,Rbla Catalunya,47,la Dreta de l'Eixample,Eixample,8007,41.39040808759584,2.164148990973875,4
+607,Cases Josefa Villanueva,C Roger de Llúria,80,la Dreta de l'Eixample,Eixample,8009,41.39489635939134,2.166752451664696,2
+608,Platja de Llevant,Av Litoral,114,Diagonal Mar i el Front Marítim del Poblenou,Sant Martí,8019,41.40501510946872,2.217741476714544,1
+609,Edifici La Rotonda,Av Tibidabo,2,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,8022,41.41053474585558,2.1370219362887046,1
+610,Teatre Coliseum,G.V. Corts Catalanes,595,la Dreta de l'Eixample,Eixample,8007,41.38819696920228,2.166179379678894,4
+611,"Àntic Edifici de Catalana de Gas i Electricitat, SA",Av Portal de l'Àngel,20,el Barri Gòtic,Ciutat Vella,8002,41.38581098730098,2.173038152640421,3
+612,Edifici Modernista Riera de Sant Miquel 44,C Riera de Sant Miquel,44,la Vila de Gràcia,Gràcia,8006,41.3981582119799,2.15627378447512,2
+613,Edifici de La Caixa de Barcelona,C Gran de Gràcia,18,la Vila de Gràcia,Gràcia,8012,41.39846772405435,2.157280332554822,3
+614,Metro Fontana,C Gran de Gràcia,170,la Vila de Gràcia,Gràcia,8012,41.402647384357394,2.152713414330724,1
+615,La plaça d'en Joanic,Pl Joanic,-2147483648,la Vila de Gràcia,Gràcia,8024,41.40530525605285,2.1622519725038294,1
+616,Monument a Josep Tarradellas,Avinguda de Josep Tarradellas,-2147483648,la Nova Esquerra de l'Eixample,Eixample,8029,41.386548699111046,2.143065853774402,1
+617,Zona de Banys,Plaça del Fòrum,1,el Besòs i el Maresme,Sant Martí,8019,41.411066821389646,2.221714876463801,1
+618,Plaça del Rei,Pl Rei,1,el Barri Gòtic,Ciutat Vella,8002,41.38399153606988,2.177312208308455,3
+619,Parròquia de Sant Pere de les Puel·les,Pl Sant Pere,-2147483648,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,8003,41.38922892058108,2.1792430187092746,2
+620,Casa Bartomeu,C Rábida,5,Pedralbes,Les Corts,8034,41.396311253391424,2.1072570259147585,1
+621,Fundació Suñol,Carrer de Mejía Lequerica,14,la Maternitat i Sant Ramon,Les Corts,8028,41.38265181042152,2.1264102113379084,1
+622,Parròquia de Maria Auxiliadora,Pg Sant Joan Bosco,70,les Tres Torres,Sarrià-Sant Gervasi,8017,41.394938605535096,2.127827570905958,1
+623,Parròquia de Sant Medir,C Constitució,17,la Bordeta,Sants-Montjuïc,8014,41.36984160255108,2.1377566200682048,1
+624,Edifici La Maternitat,C Sabino Arana,1,la Maternitat i Sant Ramon,Les Corts,8028,41.38547614322759,2.1266907591970448,1
+625,Casa Batlló,Pg Gràcia,43,la Dreta de l'Eixample,Eixample,8007,41.39173522253645,2.1649640719737016,3
+626,Teatro de los Sentidos,Camí Polvorí,1,la Marina de Port,Sants-Montjuïc,8038,41.36425978367883,2.143233343287464,1
+627,Cristalleries Planell,C Doctor Ibáñez,38,les Corts,Les Corts,8014,41.38743624313862,2.131903917807222,1
+628,Casa Queralt,C Pineda,12,el Coll,Gràcia,8023,41.41927179810715,2.147925810285238,1
+629,El Túnel de la Rovira,C Dante Alighieri,81,el Carmel,Horta-Guinardó,8032,41.42755510844527,2.1575592367815526,1
+630,Espai Mescladís,C Carders,35,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,8003,41.38709531983286,2.180350747384523,2
+631,Fabra i Coats - Fàbrica de Creació,C Sant Adrià,20,Sant Andreu,Sant Andreu,8030,41.433793974354174,2.1908326284827284,1
+632,Alberg In-Out - AJ000427,C Major del Rectoret,2,"Vallvidrera, el Tibidabo i les Planes",Sarrià-Sant Gervasi,8017,41.42206372379852,2.101812736653692,1
+633,Hotel España - HB-000073,C Sant Pau,9,el Raval,Ciutat Vella,8001,41.37998177436281,2.1728476146789286,5
+634,Barcelona - Casa Vídua Marfà,Pg Gràcia,66,la Dreta de l'Eixample,Eixample,8007,41.39311176171059,2.1642989926981406,4
+635,Colònia Castells,C Castells,2,les Corts,Les Corts,8029,41.387548470347184,2.139245592209627,1
+636,La plaça de Comas,Pl Comas,18,les Corts,Les Corts,8028,41.38564406822385,2.1297722513988706,1
+637,La plaça de la Reina Maria Cristina,Pl Reina Maria Cristina,-2147483648,Pedralbes,Les Corts,8034,41.38864240334821,2.126698190734328,1
+638,La plaça de Ramon M. Roca i Sastre,Pl Ramon M. Roca Sastre,-2147483648,la Maternitat i Sant Ramon,Les Corts,8028,41.38571907130874,2.118772762148288,1
+639,Pilar d'Aigua de la Sagrera,C Ciutat d'Elx,31,la Sagrera,Sant Andreu,8027,41.42207385561619,2.190885833187442,1
+640,La Plaça del Rom Cremat,C Jordi de Sant Jordi,16,el Congrés i els Indians,Sant Andreu,8027,41.42215416804367,2.182983037488512,1
+641,La Plaça del Mercadal,Pl Mercadal,35,Sant Andreu,Sant Andreu,8030,41.43498808409701,2.188717976056457,1
+642,L'Espai de la Torre Melina i el seu Jardí Romàntic,C Torre Melina,8,la Maternitat i Sant Ramon,Les Corts,8028,41.381730229359285,2.1085900896337453,1
+643,Antiga Subcentral Elèctrica de la Barceloneta,C Atlàntida,57,la Barceloneta,Ciutat Vella,8003,41.37949735138732,2.190007515254681,2
+644,L'Hortet del Forat,C Pou de la Figuera,1,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,8003,41.3874487826944,2.179763332554008,2
+645,El Pla de Palau,Pla Palau,1,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,8003,41.38289712933221,2.1825248996890165,3
+646,Masia Can Valent,Av Rio de Janeiro,51,Porta,Nou Barris,8016,41.43553633390901,2.17975400193275,1
+647,Museu de la Xocolata,Carrer del Comerç,36,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,8003,41.38741922402338,2.181725967522791,2
+648,Escola Josep Maria Jujol,C Riera de Sant Miquel,39,la Vila de Gràcia,Gràcia,8006,41.39821515341866,2.1558975483762164,2
+649,Museu de Carruatges del Foment,Pl Josep Pallach,8,la Vall d'Hebron,Horta-Guinardó,8035,41.43386840494578,2.149802728490179,1
+650,Restaurant Bonanova,C Sant Gervasi de Cassoles,103,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,8022,41.40621100936792,2.135031384521928,1
+651,Facultat de Comunicació i Relacions Internacionals Blanquerna - URL,Pl Joan Coromines,1,el Raval,Ciutat Vella,8001,41.38357176529572,2.1662962367757026,2
+652,Parc de la Trinitat,Pg Santa Coloma,60,Sant Andreu,Sant Andreu,8030,41.44926882521931,2.1956548753915466,1
+653,Facultat de Psicologia i Ciències de l'Educació i de l'Esport Blanquerna - URL,Císter,34,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,8022,41.41191420929642,2.1333279293214424,1
+654,Parròquia de Santa Maria del Pi - Basílica,Pl Pi,7,el Barri Gòtic,Ciutat Vella,8002,41.38233930831357,2.173794255569959,5
+655,Centre Educatiu CETT,Av Can Marcet,36,la Vall d'Hebron,Horta-Guinardó,8035,41.43485061254671,2.1481555754807795,1
+656,Seu de l'Antiga Hidroelèctrica de Catalunya,C Almogàvers,11,el Fort Pienc,Eixample,8018,41.39192618305821,2.182863588545234,1
+657,Forn de Pa de Can Tur,Virgili,74,Sant Andreu,Sant Andreu,8030,41.43201793483495,2.1933483941178182,1
+658,El Clot,Pl Font i Sagué,2,el Clot,Sant Martí,8018,41.407845782838926,2.188469193190472,1
+659,El nucli de Santa Eulàlia de Vilapicina,C Pere d'Artés,1,el Turó de la Peira,Nou Barris,8031,41.43105597129707,2.173127543884692,1
+660,Can Peguera,Pl Sant Francesc Xavier,12,Can Peguera,Nou Barris,8031,41.434284670279865,2.16456333073766,1
+661,La vila de Gràcia,Pl Virreina,2,la Vila de Gràcia,Gràcia,8024,41.405031103391,2.157519564297269,1
+662,Ca l'Aranyó,C Roc Boronat,150,el Parc i la Llacuna del Poblenou,Sant Martí,8018,41.40418745612774,2.192916650968304,1
+663,Plaça Masadas,Pl Masadas,1,la Sagrera,Sant Andreu,8027,41.424786104383934,2.190177003471264,1
+664,Masia de Can Baró,Pl Can Baró,1,Can Baró,Horta-Guinardó,8024,41.41656209133623,2.1620938107713417,1
+665,Pla de Montbau,Pla Montbau,6,Montbau,Horta-Guinardó,8035,41.430681496366894,2.1427060165365965,1
+666,Escola Superior de Música de Catalunya,C Padilla,155,el Fort Pienc,Eixample,8013,41.398772424934776,2.185159128100962,1
+667,Escola Superior de Disseny IED Barcelona,Carrer de Biada,11,la Vila de Gràcia,Gràcia,8012,41.40542058928409,2.154980971740315,1
+668,Funicular de Montjuïc-TMB,Av Paral.lel,59,el Poble-sec,Sants-Montjuïc,8004,41.37479599283319,2.1703264205028834,2
+669,Escultura Fray Pedro Ponce de León,Pg Sant Joan,210,el Camp d'en Grassot i Gràcia Nova,Gràcia,8037,41.40440352665176,2.163008249478441,1
+670,Obelisc del Cinc d'Oros,Pl Joan Carles I,9999,la Dreta de l'Eixample,Eixample,8008,41.396517237885504,2.159512198746821,3
+671,Museu del Modernisme de Barcelona,C Balmes,48,la Dreta de l'Eixample,Eixample,8007,41.38890739636273,2.163402681362388,3
+672,Parc de la Maquinista per les treballadores i els treballadors de la Maquinista,Passeig de l'Havana,2,el Bon Pastor,Sant Andreu,8030,41.43634320300456,2.196101084364239,1
+673,Can Tusquets,Av Santuari St Josep Muntanya,1,la Salut,Gràcia,8024,41.41043997027809,2.154195493067497,1
+674,Casa Agustí Trulla,C Berga,22,la Vila de Gràcia,Gràcia,8012,41.40073485164731,2.152994586062526,2
+675,Casa Castellet,C Torrijos,26,la Vila de Gràcia,Gràcia,8012,41.40322501663375,2.1591194797287576,2
+676,Casa Concepció i Casa Comelles,C Astúries,26,la Vila de Gràcia,Gràcia,8012,41.40324920807498,2.1542086675874965,1
+677,Casa Cortina,Av República Argentina,82,Vallcarca i els Penitents,Gràcia,8023,41.41022204823076,2.1460627049444705,1
+678,Casa Enric Cera,C Or,38,la Vila de Gràcia,Gràcia,8012,41.40467490062874,2.1573773724992016,1
+679,Casa Girona i Cuyàs,C Gran de Gràcia,6,la Vila de Gràcia,Gràcia,8012,41.39819978132556,2.1575989671703684,3
+680,Parc Metropolità Collserola,Ctra Església,92,"Vallvidrera, el Tibidabo i les Planes",Sarrià-Sant Gervasi,8017,41.42098586112135,2.099587929673552,1
+681,Estació de França,Avinguda del Marquès de l'Argentera,6,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,8003,41.38390532899724,2.1871972542686304,1
+682,Jardins Plaça de Can Fabra,Carrer del Segre,24,Sant Andreu,Sant Andreu,8030,41.43492591429399,2.191738858342075,1
+683,Museu d'Art Contemporani de Barcelona,Plaça dels Àngels,1,el Raval,Ciutat Vella,8001,41.383177415641065,2.16784852899158,2
+684,Associació d'Emprenedors del Clot-Eix Clot,Carrer de Sant Antoni Maria Claret,358,el Camp de l'Arpa del Clot,Sant Martí,8041,41.41643869811126,2.181492927401364,1
+685,L'Auditori de Barcelona,Carrer de Lepant,150,el Fort Pienc,Eixample,8013,41.398772424934776,2.185159128100962,1
+686,Ateneu Barcelonès,Carrer de la Canuda,6,el Barri Gòtic,Ciutat Vella,8002,41.38468020491708,2.171664567764501,5
+687,Jardins de Vil·la Cecília,Santa Amèlia,1,Sarrià,Sarrià-Sant Gervasi,8034,41.39374957203113,2.121963830470535,1
+688,Club Esportiu Europa,Carrer de Pau Alsina,138,la Salut,Gràcia,8024,41.4120436129141,2.1604194727546537,1
+689,Teatre Lliure,Pl Margarida Xirgu,1,el Poble-sec,Sants-Montjuïc,8004,41.37067944906853,2.1574493260272294,1
+690,Casa Almirall,C Joaquín Costa,33,el Raval,Ciutat Vella,8001,41.38238921399351,2.165929295607357,2
+691,Plaça de les Dones del 36,Pl Dones del 36,1,la Vila de Gràcia,Gràcia,8012,41.40454220831473,2.153654759838709,1
+692,Antiga Fàbrica Estrella Damm,Carrer del Rosselló,515,la Sagrada Família,Eixample,8025,41.40912820969591,2.178180484218155,2
+693,Cases Francesc Farreras,G.V. Corts Catalanes,536,Sant Antoni,Eixample,8011,41.382555032109934,2.159551767559708,3
+694,Casa Pomar,C Girona,86,la Dreta de l'Eixample,Eixample,8009,41.39563961765684,2.170281440902392,3
+695,Casa Queraltó,Rbla Catalunya,88,la Dreta de l'Eixample,Eixample,8008,41.39305633370552,2.161061569869412,3
+696,Casa Jaume Forn,C València,285,la Dreta de l'Eixample,Eixample,8009,41.395288179555614,2.166550686689944,2
+697,Casa Santurce,C València,293,la Dreta de l'Eixample,Eixample,8009,41.39560141763696,2.166965615442641,2
+698,Casa Granell *Balmes,C Balmes,65,l'Antiga Esquerra de l'Eixample,Eixample,8007,41.39014919657067,2.1613897653246257,3
+699,Casa Vallet i Xiró,C Mallorca,302,la Dreta de l'Eixample,Eixample,8037,41.39698989040617,2.166908231079334,3
+700,Antiga Fàbrica Can Batlló,G.V. Corts Catalanes,155,la Bordeta,Sants-Montjuïc,8014,41.36691014694684,2.136912948804239,1
+701,Hort Urbà Masia Can Soler,Ctra Sant Cugat,114,Sant Genís dels Agudells,Horta-Guinardó,8035,41.42502856858588,2.130702385728167,1
+702,El carrer de Canet,C Canet,36,Sarrià,Sarrià-Sant Gervasi,8017,41.39869925444347,2.1234442569006,1
+703,Dipòsit del Rei Martí,C Bellesguard,14,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,8022,41.40886213744492,2.1271686577385576,1
+704,El barri de la Clota,C Capcir,2,la Clota,Horta-Guinardó,8035,41.42664948190676,2.150985823958698,1
+705,Biblioteca Vapor Vell,Passatge del Vapor Vell,1,Sants,Sants-Montjuïc,8028,41.37692859666653,2.134751788846474,1
+706,Castell de Montjuïc,Carretera de Montjuïc,66,el Poble-sec,Sants-Montjuïc,8038,41.36446421195711,2.1671241451784176,1
+707,Jardins de Joan Brossa,Plaça de Dante,9999,el Poble-sec,Sants-Montjuïc,8038,41.36867092135471,2.165012850406953,1
+708,Parc de les Cascades,Avinguda del Litoral,12,la Barceloneta,Ciutat Vella,8005,41.38631260802294,2.195094646620497,1
+709,Jardins Laribal,Pg Santa Madrona,2,el Poble-sec,Sants-Montjuïc,8038,41.36812384413011,2.158482875531215,1
+710,Museu de Ciències Naturals de Barcelona,Plaça de Leonardo da Vinci,4,el Besòs i el Maresme,Sant Martí,8019,41.41081133082032,2.220499449653222,1
+711,Antiga Seu Editorial Gustavo Gili,Rosselló,87,la Nova Esquerra de l'Eixample,Eixample,8029,41.38610655947061,2.147565662886036,1
+712,Fundació Barcelona Media - Centre d'Innovació,Av Diagonal,177,el Parc i la Llacuna del Poblenou,Sant Martí,8018,41.404425080209855,2.1936694239353693,1
+713,Mercat Horta,Carrer del Tajo,75,Horta,Horta-Guinardó,8032,41.42962510164449,2.1596089875560494,1
+714,Mercat Núria,Avinguda dels Rasos de Peguera,186,Ciutat Meridiana,Nou Barris,8033,41.45995202920537,2.1726367468768304,1
+715,La plaça del Raspall,Pl Raspall,-2147483648,la Vila de Gràcia,Gràcia,8012,41.401314262013386,2.160701296482157,2
+716,La Plaça del Setge de 1714,Pl Setge de 1714,-2147483648,el Poble-sec,Sants-Montjuïc,8004,41.3742315617575,2.161040561834341,2
+717,Torre de Sant Jordi,C Sant Eudald,11,el Coll,Gràcia,8023,41.413865507094485,2.145538840084051,1
+718,Villa Conchita o Casa dels Metges,Pg Mare de Déu del Coll,81,el Coll,Gràcia,8023,41.419213214937365,2.148484310850028,1
+719,Carrer Sant Gervasi de Cassoles,C Sant Gervasi de Cassoles,1,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,8022,41.40417769240352,2.139512069189189,1
+720,El Passeig de les Aigües,Ctra Aigües,211,"Vallvidrera, el Tibidabo i les Planes",Sarrià-Sant Gervasi,8017,41.4141793736998,2.119019897033429,1
+721,L'avinguda del Tibidabo,Av Tibidabo,4,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,8022,41.41053474585558,2.1370219362887046,1
+722,El Passeig de Gràcia,Pg Gràcia,80,la Dreta de l'Eixample,Eixample,8008,41.39399544115184,2.16320320889263,4
+723,Jardins del Mirador de l'Alcalde,Carretera de Montjuïc,41,el Poble-sec,Sants-Montjuïc,8038,41.36693458020852,2.169190267865246,1
+724,Biblioteca Barceloneta -  La Fraternitat,Carrer de Felícia Fuster i Viladecans,8,la Barceloneta,Ciutat Vella,8003,41.37923262887593,2.188871640262453,2
+725,Centre Educatiu Santa Teresa - Ganduxer,C Ganduxer,85,les Tres Torres,Sarrià-Sant Gervasi,8022,41.39996979813191,2.1335779353787503,1
+726,Centre Cívic Tomasa Cuevas - Les Corts,Carrer de Dolors Masferrer i Bosch,33,les Corts,Les Corts,8028,41.38481868130681,2.128341678987052,1
+727,Ca n'Andalet,Passatge d'Andalet,11,el Carmel,Horta-Guinardó,8032,41.427211891525296,2.153678760813793,1
+728,Escultura Pi i Margall-La República,Pl de la República,1,la Guineueta,Nou Barris,8042,41.43822406099561,2.1740546617840075,1
+729,Edifici de La Model,Carrer d'Entença,155,la Nova Esquerra de l'Eixample,Eixample,8029,41.383466537215966,2.145384599812989,1
+730,Parròquia de la Mare de Déu del Coll,C Santuari,30,el Coll,Gràcia,8032,41.420132063616215,2.151319417179658,1
+731,Parc Científic de Barcelona,Carrer de Baldiri Reixac,4,la Maternitat i Sant Ramon,Les Corts,8028,41.38184573119936,2.116442974830661,1
+732,Torre Bellesguard  Gaudí - Casa Figueres,C Bellesguard,16,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,8022,41.40916538840938,2.126832670465789,1
+733,Funicular Vallvidrera - FGC,Carrer de les Alberes,16,"Vallvidrera, el Tibidabo i les Planes",Sarrià-Sant Gervasi,8017,41.41422846437414,2.1059462512020857,1
+734,Funicular Tibidabo - Cuca de Llum,Plaça del Doctor Andreu,1,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,8035,41.41631050210694,2.131411684356236,1
+735,Tramvia Blau Tibidabo-TMB,Avinguda del Tibidabo,2,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,8022,41.410534683169146,2.1370219849769443,1
+736,Parc del Mirador del Poble-sec,Passeig de Montjuïc,59,el Poble-sec,Sants-Montjuïc,8038,41.37192068979768,2.1701826605872294,2
+737,Hospital de la Santa Creu i Sant Pau,C Sant Quintí,89,el Guinardó,Horta-Guinardó,8041,41.41544108395991,2.1739598683555683,1
+738,Jardins de les Tres Xemeneies,Av Paral.lel,49,el Poble-sec,Sants-Montjuïc,8004,41.374483270295705,2.172430025242432,2
+739,Parc de la Font Florida,G.V. Corts Catalanes,196,la Font de la Guatlla,Sants-Montjuïc,8004,41.368634514222805,2.14105045396157,1
+740,Associació Cultural El Raval El Lokal,C Cera,1,el Raval,Ciutat Vella,8001,41.3794510629626,2.167094592540177,2
+741,Parròquia de Sant Josep Manyanet,C Sant Sebastià,47,Sant Andreu,Sant Andreu,8030,41.42900359854308,2.1914231867699456,1
+742,Centre de Cultura Contemporània de Barcelona,C Montalegre,5,el Raval,Ciutat Vella,8001,41.38391450226559,2.1668129104163323,2
+743,Centre Cívic Sant Andreu,Carrer Gran de Sant Andreu,111,Sant Andreu,Sant Andreu,8030,41.43088018380354,2.1894124386376466,1
+744,Jardins del Palau Robert,Passeig de Gràcia,107,la Dreta de l'Eixample,Eixample,8008,41.39613160766745,2.159538941393651,3
+745,Parròquia de la Verge de Gràcia i Sant Josep,Pl Lesseps,25,Vallcarca i els Penitents,Gràcia,8023,41.40659452736559,2.1489419133653587,1
+746,Poble Espanyol de Barcelona,Avinguda de Francesc Ferrer i Guàrdia,13,el Poble-sec,Sants-Montjuïc,8038,41.36914809976753,2.1467430809493484,1
+747,Casal Sant Jordi,Pau Claris,81,la Dreta de l'Eixample,Eixample,8010,41.38944576760637,2.1713337865477698,4
+748,Palau de la Música Catalana,C Palau de la Música,2,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,8003,41.38736310291296,2.1751754135417323,2
+749,Casa Amatller,Pg Gràcia,41,la Dreta de l'Eixample,Eixample,8007,41.39161297296297,2.165112890687213,3
+750,Monument Arc de Triomf de Barcelona,Pg Lluís Companys,15,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,8003,41.39108086341498,2.1807039051520003,2
+751,Parròquia de Santa Madrona,C Tapioles,10,el Poble-sec,Sants-Montjuïc,8004,41.3741976792283,2.164693483626283,3
+752,Parc de la Creueta del Coll,Pg Mare de Déu del Coll,77,el Coll,Gràcia,8023,41.419264262411424,2.1462520569914063,1
+753,Premsa de Vi de Can Xandri,Plaça d'en Xandri,3,Sant Andreu,Sant Andreu,8030,41.43822585647148,2.1853478240155115,1
+754,Centre Moral i Instructiu de Gràcia,Carrer de Ros de Olano,9,la Vila de Gràcia,Gràcia,8012,41.401146760756895,2.1547866320723554,2
+755,Jardins de Magalí,C Vallespir,194,les Corts,Les Corts,8014,41.38491336528375,2.1335326462367803,1
+756,La plaça de les Glòries Catalanes,Pl Glòries Catalanes,36,el Parc i la Llacuna del Poblenou,Sant Martí,8018,41.40259189980736,2.18733195275548,1
+757,Temple Expiatori de la Sagrada Família - Basílica,Carrer de Provença,450,la Sagrada Família,Eixample,8025,41.40395313063026,2.173925859874078,2
+758,Religioses de la Mare de Déu de la Mercè,Sant Gervasi de Cassoles,66,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,8022,41.4059093343946,2.1375174554869414,1
+759,Parc de Joan Miró,Carrer d'Aragó,2,la Nova Esquerra de l'Eixample,Eixample,8015,41.37883814100107,2.147333595888801,1
+760,Parròquia de Santa Maria de Gràcia,C Gràcia,3,la Vila de Gràcia,Gràcia,8012,41.39833719125325,2.1579647021625696,3
+761,Club Natació Barcelona,Pg Joan Borbó C Barcelona,93,la Barceloneta,Ciutat Vella,8039,41.37127323270199,2.187849724478972,1
+762,Teatre Grec,Pg Santa Madrona,36,el Poble-sec,Sants-Montjuïc,8038,41.36812384413011,2.158482875531215,1
+763,Turó Park - Parc del Poeta Eduard Marquina,Av Pau Casals,19,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,8021,41.39410523623182,2.1419158924657906,1
+764,Institut Français de Barcelone,C Moià,8,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,8006,41.39528348612812,2.1517956248758305,2
+765,Col·legi d'Arquitectes de Catalunya,Pl Nova,5,el Barri Gòtic,Ciutat Vella,8002,41.38447776866129,2.175059343001021,3
+766,Parc Carmel,Ctra Carmel,9999,el Carmel,Horta-Guinardó,8024,41.41516676215983,2.155269268607678,1
+767,Parc Turó del Putget,C Manacor,9,el Putxet i el Farró,Sarrià-Sant Gervasi,8023,41.40774734930597,2.1425177258809422,1
+768,Parc de Monterols,Carrer de Muntaner,450,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,8006,41.40161305479784,2.1397735122452017,1
+769,Casa Marsans - Alberg Mare de Déu de Montserrat - AJ000084,Pg Mare de Déu del Coll,41,Vallcarca i els Penitents,Gràcia,8023,41.416189496832175,2.1468663071393794,1
+770,Jardí Botànic de Barcelona,Carrer del Doctor Font i Quer,2,el Poble-sec,Sants-Montjuïc,8038,41.36410317400865,2.1587455117755603,1
+771,Centre Cultural La Farinera del Clot,Gran Via de les Corts Catalanes,837,el Clot,Sant Martí,8018,41.40487897583886,2.18840476699031,1
+772,Casa Vicens,C Carolines,18,la Vila de Gràcia,Gràcia,8012,41.4035372452986,2.1505869815611334,1
+773,Palau Güell,Carrer Nou de la Rambla,3,el Raval,Ciutat Vella,8001,41.379087185159,2.174439557713116,5
+774,Antic Dispensari Antituberculós,C Torres i Amat,8,el Raval,Ciutat Vella,8001,41.38433595216771,2.165173981341848,3
+775,Parc Sanitari Pere Virgili,C Esteve Terradas,30,Vallcarca i els Penitents,Gràcia,8023,41.41495508215849,2.140265906627508,1
+776,Parc de la Barceloneta,Passeig Marítim de la Barceloneta - Oriol Bohigas,15,la Barceloneta,Ciutat Vella,8003,41.3820550168728,2.193838416918405,1
+777,Hotel Peninsular - HB-003154,C Sant Pau,34,el Raval,Ciutat Vella,8001,41.37962578754925,2.1725113181323525,4
+778,Far del Port - Torre del Rellotge,Moll Pescadors,1,la Barceloneta,Ciutat Vella,8039,41.3758307185709,2.186997099293849,1
+779,Centre Comercial L'Illa Diagonal,Av Diagonal,557,les Corts,Les Corts,8029,41.38974559970474,2.1353959606306443,1
+780,Filmoteca de Catalunya,Plaça de Salvador Seguí,1,el Raval,Ciutat Vella,8001,41.378633698248855,2.171026973674133,3
+781,Font Màgica - Fonts de Montjuïc *Aturada degut a la situació d'alerta per sequera,Plaça de Carles Buïgas,1,el Poble-sec,Sants-Montjuïc,8038,41.37020770355242,2.1540328617020004,1
+782,Casa dels Ossos,Av Diagonal,423,l'Antiga Esquerra de l'Eixample,Eixample,8036,41.39465875789174,2.1529838685904554,2
+783,Jardins Mossèn Cinto Verdaguer,Av Miramar,30,el Poble-sec,Sants-Montjuïc,8038,41.36885056534847,2.1630513619866973,1
+784,Associació Nou Barris Centre Comerç,C Pare Rodés,51,Verdun,Nou Barris,8042,41.441335601744335,2.176213867579158,1
+785,Parc de Sant Martí,C Menorca,64,Sant Martí de Provençals,Sant Martí,8020,41.41989650584672,2.198051769477209,1
+786,Bar Musical London Bar,C Nou de la Rambla,34,el Raval,Ciutat Vella,8001,41.37814933333809,2.1731803971737738,3
+787,Conjunt de Sant Martí de Provençals,C Selva del Camp,2,Sant Martí de Provençals,Sant Martí,8020,41.42090417387696,2.196643734220937,1
+788,Carrer Cienfuegos,C Cienfuegos,21,el Congrés i els Indians,Sant Andreu,8027,41.42408750553282,2.183417526927583,1
+789,Carrer Pinar del Rio,C Matanzas,30,el Congrés i els Indians,Sant Andreu,8027,41.422259021739634,2.182100594284828,1
+790,Club Tennis Barcino,Pl Narcisa Freixas,2,el Putxet i el Farró,Sarrià-Sant Gervasi,8022,41.40833006675837,2.1384260681340863,1
+791,Casa Fàbrica Güell-Ramis,C Còdols,16,el Barri Gòtic,Ciutat Vella,8002,41.37958535239015,2.178265252336639,4
+792,Casa Parés,C Mestres Casals i Martorell,15,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,8003,41.3872658323001,2.178401010468016,2
+793,Jardins,Pg Vall d'Hebron,171,Montbau,Horta-Guinardó,8007,41.43592904989888,2.140931254267526,1
+794,Restaurant Casa Tejada,C Tenor Viñas,3,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,8021,41.39505269147344,2.142108289092796,1
+795,Restaurant Casa Trampa,Pl Vallvidrera,3,"Vallvidrera, el Tibidabo i les Planes",Sarrià-Sant Gervasi,8017,41.41319781754193,2.1045162775346715,1
+796,Gerència Urbanística Port Vell de l'Autoritat Portuària de Barcelona,C Josep Anselm Clavé,27,el Barri Gòtic,Ciutat Vella,8002,41.37792481602984,2.1782341227997044,3
+797,Herboristeria del Rei,Vidre,1,el Barri Gòtic,Ciutat Vella,8002,41.38070755674348,2.175034436574318,5
+798,Farmàcia Reixach-de Pablo,Carrer Gran de Sant Andreu,263,Sant Andreu,Sant Andreu,8030,41.435618295520094,2.1896359516105504,1
+799,Casa Llopis Bofill,Bailèn,113,la Dreta de l'Eixample,Eixample,8009,41.39767792794139,2.169479497833732,2
+800,Nou Hospital Evangèlic,C Camèlies,15,la Salut,Gràcia,8024,41.41110327599354,2.1589187127071603,1
+801,Fàbrica de Creació Nau Ivanow,C Hondures,28,la Sagrera,Sant Andreu,8027,41.4199791609378,2.1899651964541302,1
+802,Centre Comercial Westfield Glòries,Av Diagonal,208,el Parc i la Llacuna del Poblenou,Sant Martí,8018,41.40497574863421,2.1925213552739606,1
+803,Forn de Pa Roura Vila,C Calaf,15,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,8021,41.39744142472332,2.144269436975635,1
+804,Platja de Sant Sebastià,Passeig Marítim de la Barceloneta - Oriol Bohigas,2,la Barceloneta,Ciutat Vella,8003,41.373706513534366,2.1896792006250663,1
+805,Platja de la Nova Icària,Pg Marítim de Nova Icària,60,la Vila Olímpica del Poblenou,Sant Martí,8005,41.39076474300676,2.2028838890750646,1
+806,Font Pública,Trav Gràcia,126,la Vila de Gràcia,Gràcia,8012,41.40022209501887,2.1561312297043247,2
+807,Centre Comercial Maremàgnum,Moll Espanya,5,el Barri Gòtic,Ciutat Vella,8039,41.37576189535446,2.183231333568717,1
+808,Museu Egipci de Barcelona,Carrer de València,284,la Dreta de l'Eixample,Eixample,8007,41.39365756520607,2.1647541605952405,3
+809,Spotify Camp Nou * Tancat per remodelació,C Aristides Maillol,12,la Maternitat i Sant Ramon,Les Corts,8028,41.380806951232216,2.1228764926605805,1
+810,Acàdemia Blancafort - Antiga Editorial Seguí,C Torrent de l'Olla,9,la Vila de Gràcia,Gràcia,8012,41.39878162390739,2.1609062506181,3
+811,Can Pardal,C Montseny,49,la Vila de Gràcia,Gràcia,8012,41.40285879796171,2.156185776031604,1
+812,Edifici d'habitatges Gran de Gràcia 74*76,C Gran de Gràcia,74,la Vila de Gràcia,Gràcia,8012,41.40008719962975,2.1553848011746144,2
+813,Casa Cama i Escurra,C Gran de Gràcia,15,la Vila de Gràcia,Gràcia,8012,41.39828230438417,2.157088195204451,3
+814,Casa Claudi Alsina,Pl Lesseps,30,el Putxet i el Farró,Sarrià-Sant Gervasi,8023,41.4061899908628,2.149575785577088,1
+815,Casa Eudald Obradors,Av República Argentina,90,Vallcarca i els Penitents,Gràcia,8023,41.41057923317124,2.1458839653210964,1
+816,Casa Gaspar Galí,C Montseny,45,la Vila de Gràcia,Gràcia,8012,41.40265208001169,2.1558495685461287,1
+817,Las Golondrinas - Sirenas SA,Moll Drassanes,1,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,8039,41.3746514376551,2.178115302193892,1
+818,Casa Terradas - Casa de les Punxes,Av Diagonal,420,la Dreta de l'Eixample,Eixample,8037,41.39789455388375,2.1638579681725147,3
+819,Centre Educatiu Monlau,C Monlau,2,la Sagrera,Sant Andreu,8027,41.42299752907012,2.1906007422317457,1
+820,Casa Company,Buenos Aires,56,l'Antiga Esquerra de l'Eixample,Eixample,8036,41.393120800716055,2.1481893230679403,2
+821,Escola Superior de Disseny i d'Art Llotja,C Ciutat de Balaguer,17,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,8022,41.40260219806343,2.1361304746909444,1
+822,Reial Club Nàutic de Barcelona,Moll Espanya,1,el Barri Gòtic,Ciutat Vella,8039,41.37723872429205,2.1830264347318584,1
+823,Parc del Poblenou,Av Litoral,59,el Poblenou,Sant Martí,8005,41.39727971819072,2.207470604184096,1
+824,Casa Muntadas,Av Tibidabo,48,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,8035,41.41526572017423,2.1332147546001883,1
+825,Torre de Santa Caterina,C Panamà,21,Pedralbes,Les Corts,8034,41.394987347747104,2.1059277429633085,1
+826,La Previsió Obrera,C Doctor Balari i Jovany,13,Sant Andreu,Sant Andreu,8030,41.435363668960846,2.190849375486821,1
+827,Casa Planells,Av Diagonal,332,la Sagrada Família,Eixample,8013,41.4005940299752,2.174625257658432,2
+828,Club Esportiu Mediterrani *Instal·lació Josep Vallès,C Begur,44,Sants - Badal,Sants-Montjuïc,8028,41.3733599989622,2.130464703418883,1
+829,Fundacio Privada Desenvolupament Comunitari,C Pere Vergés,1,la Verneda i la Pau,Sant Martí,8020,41.42279520372416,2.208969599145994,1
+830,Universitat Internacional de Catalunya,Immaculada,22,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,8017,41.406033260654574,2.123231960089889,1
+831,Cementiri Sant Andreu,Carrer dels Garrofers,35,Porta,Nou Barris,8016,41.437412139312414,2.1790301618213404,1
+832,Casa Martí - Els Quatre Gats,Montsió,3,el Barri Gòtic,Ciutat Vella,8002,41.38603997054996,2.1735178081132696,3
+833,Associació Sant Martí Eix Comercial,Carrer de Huelva,111,Sant Martí de Provençals,Sant Martí,8020,41.42025966854083,2.1998166979222726,1
+834,Museu de Cera de Barcelona,Passatge de la Banca,5,el Barri Gòtic,Ciutat Vella,8002,41.377130607091686,2.1774606445543268,2
+835,Centre Esportiu Municipal Can Caralleu,Carrer dels Esports,2,Sarrià,Sarrià-Sant Gervasi,8017,41.40098699374352,2.1105047906383008,1
+836,Parròquia de Sant Vicenç de Sarrià,C Rector Voltà,5,Sarrià,Sarrià-Sant Gervasi,8034,41.39948172834851,2.121111403839136,1
+837,Institut Químic de Sarrià - Campus Sarrià - IQS,Via Augusta,390,Sarrià,Sarrià-Sant Gervasi,8017,41.40379591152729,2.11946054577426,1
+838,Parròquia de la Mare de Déu de Lourdes,C Font Honrada,33,el Poble-sec,Sants-Montjuïc,8004,41.37309762127584,2.1560110122944107,2
+839,Museu,Avinguda de Miramar,1,el Poble-sec,Sants-Montjuïc,8038,41.36829226182124,2.1601492925476364,1
+840,Seu de la Secció 10 de les Patrulles de Control (Guerra Civil),C Gran de Sant Andreu,52,Sant Andreu,Sant Andreu,8030,41.42911252316188,2.19036384484912,1
+841,Avenç Obrer Català de Sant Andreu,Pl Orfila,3,Sant Andreu,Sant Andreu,8030,41.43624446859993,2.1909591589263973,1
+842,Carrer Pons i Gallarza,C Bascònia,45,Sant Andreu,Sant Andreu,8030,41.43554210043539,2.186869522394108,1
+843,Carrer Puerto Príncipe,C Puerto Príncipe,44,el Congrés i els Indians,Sant Andreu,8027,41.422608628418345,2.181260260566652,1
+844,La Plaça Santa Madrona,Pl Santa Madrona,3,el Poble-sec,Sants-Montjuïc,8004,41.37346904326101,2.156314424935835,2
+845,Pavelló Mies van der Rohe,Avinguda de Francesc Ferrer i Guàrdia,7,el Poble-sec,Sants-Montjuïc,8038,41.370842160327136,2.149776113823393,1
+846,Centre Cívic Can Felipa,Plaça de Josep Maria Huertas Claveria,1,el Poblenou,Sant Martí,8005,41.40367975860696,2.20050971216533,1
+847,Mercat Galvany,Carrer de Santaló,65,Sant Gervasi - Galvany,Sarrià-Sant Gervasi,8021,41.39668239144884,2.143678943368952,1
+848,Mercat Concepció,Carrer d'Aragó,311,la Dreta de l'Eixample,Eixample,8009,41.39556815947775,2.169071648271845,3
+849,Mercat Les Corts,Travessera de les Corts,215,les Corts,Les Corts,8028,41.38407806063042,2.1298048647400445,1
+850,Pla de la Seu,Pla de la Seu,1,el Barri Gòtic,Ciutat Vella,8002,41.38425392967717,2.1758673829595696,3
+851,Mercat Sant Antoni,Carrer del Comte d'Urgell,1,Sant Antoni,Eixample,8011,41.37956821941282,2.161743115837759,2
+852,Centre Cívic La Sedeta,Carrer de Sicília,321,el Camp d'en Grassot i Gràcia Nova,Gràcia,8025,41.40557651201225,2.167687591797475,1
+853,Centre Cívic Guinardó,Ronda del Guinardó,113,el Guinardó,Horta-Guinardó,8041,41.41610799335015,2.1733783934174653,1
+854,Centre Cívic Casa del Rellotge,Passeig de la Zona Franca,116,la Marina de Port,Sants-Montjuïc,8038,41.35757415322748,2.141406028389017,1
+855,Centre Cívic Pere Pruna,Carrer de Ganduxer,130,Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,8022,41.40320904460329,2.13132023534547,1
+856,Centre Cívic Sarrià,Carrer d'Eduardo Conde,22,Sarrià,Sarrià-Sant Gervasi,8034,41.3939061996762,2.1211872573336934,1
+857,Mercat Poblenou - Unió,Pl Unió,25,el Poblenou,Sant Martí,8005,41.40102174848232,2.205429196399153,2
+858,Mercat Guineueta,Passeig de Valldaura,186,la Guineueta,Nou Barris,8042,41.43865254771624,2.170245672758619,1
+859,Mercat Clot,Pl Mercat,26,el Clot,Sant Martí,8018,41.40761694241932,2.188644372365021,1
+860,Mercat Sant Andreu,Plaça del Mercadal,41,Sant Andreu,Sant Andreu,8030,41.43489312913731,2.1883934902332927,1
+861,Mercat Ninot,Carrer de Mallorca,133,l'Antiga Esquerra de l'Eixample,Eixample,8036,41.38785716567696,2.1544122344047523,2
+862,Mercat Barceloneta,Plaça del Poeta Boscà,1,la Barceloneta,Ciutat Vella,8003,41.38024616800818,2.18928120267198,2
+863,Mercat Abaceria Central,Pg Sant Joan,181,el Camp d'en Grassot i Gràcia Nova,Gràcia,8037,41.40318652868216,2.164179164252221,1
+864,Mercat Boqueria - Sant Josep,Carrer la Rambla,89,el Raval,Ciutat Vella,8002,41.38204889437501,2.17227075910574,4
+865,Mercat Llibertat,Plaça de la Llibertat,27,la Vila de Gràcia,Gràcia,8012,41.39973784880562,2.1537484882528983,2
+866,Mercat Sarrià,Pg Reina Elisenda Montcada,8,Sarrià,Sarrià-Sant Gervasi,8034,41.3998359320904,2.1207231796605,1
+867,Mercat Santa Caterina,Av Francesc Cambó,16,"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,8003,41.38639488164491,2.1781771121189712,2
+868,Mercat Sants,C Sant Jordi,6,Sants,Sants-Montjuïc,8028,41.37474144032811,2.133754628418325,1
+869,Mercat Hostafrancs,Carrer de la Creu Coberta,93,Hostafrancs,Sants-Montjuïc,8014,41.37516234439833,2.143853943380838,2
+870,Centre Cívic Vallvidrera Vázquez Montalbán,Carrer d'Elisa Moragas i Badia,16,"Vallvidrera, el Tibidabo i les Planes",Sarrià-Sant Gervasi,8017,41.41539106451315,2.102545331836101,1

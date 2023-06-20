@@ -52,7 +52,7 @@ font-weight: 400;
 font-size: 150px;
 line-height: 188px;
 text-align: center;
-color: #23717E;
+color: white;
 max-width:190px ;
 text-align:center;
 justify-content: center;
@@ -74,3 +74,6 @@ animation: slideInUp;
   color:#23717E
 }
 
+.bottom_search{
+  margin-bottom: 40px;
+}

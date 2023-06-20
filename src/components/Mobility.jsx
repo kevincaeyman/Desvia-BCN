@@ -1,6 +1,6 @@
-import React from 'react'
-import tgrup from "../assets/t-grup.png"
-import "../styles/mobility.css"
+import React from "react";
+import tgrup from "../assets/t-grup.png";
+import "../styles/mobility.css";
 
 export const Mobility = () => {
   return (
