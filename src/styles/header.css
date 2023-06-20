@@ -8,15 +8,15 @@
   
   .description{
   position: relative;
-  left: 138px;
-  margin-top: -70px;
+  margin-left: 138px;
+  margin-top: -10px;
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 300;
   font-size: 22px;
   line-height: 38px;
   color: #23717E;
-  margin-top: 8px;
+  margin-bottom: 60px;
   }
   
   .header{

@@ -1,4 +1,5 @@
 import React from "react";
+import "../styles/barchart.css";
 
 export const Navbar = () => {
   return (
