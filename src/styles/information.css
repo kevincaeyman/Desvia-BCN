@@ -1,0 +1,47 @@
+.information h2{
+    padding-top: 50px;
+}
+
+.description{
+    position: relative;
+    margin-right: 20px;
+    margin-top: -10px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 22px;
+    line-height: 38px;
+    color: #23717E;
+    margin-bottom: 60px;
+    z-index:1;
+}
+
+@media only screen 
+  and (device-width: 390px) 
+  and (device-height: 844px) 
+  and (-webkit-device-pixel-ratio: 3) {
+
+.information{
+    display: flex;
+    flex-flow: row wrap;
+    padding: 0;
+    margin-left: -100px;
+}
+
+.information h2{
+    padding-top: 50px;
+    font-size: 40px;
+}
+
+.description{
+    position: relative;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 38px;
+    color: #23717E;
+    margin-bottom: 60px;
+    z-index:1;
+    max-width: 300px;
+}}

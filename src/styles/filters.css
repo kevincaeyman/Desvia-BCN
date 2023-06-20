@@ -51,6 +51,14 @@
       flex-direction: column;
     }
   }
+  
+  @media only screen 
+  and (device-width: 390px) 
+  and (device-height: 844px) 
+  and (-webkit-device-pixel-ratio: 3) {
+.bottom_search{margin-left: -100px;}
+  }
+
   @media (max-width: 1265px) {
     .filters-names{
       left: 60px;
