@@ -9,7 +9,7 @@
 1. [Description](#description)
 2. [Technologies](#technologies)
 3. [Organization](#organization)
-4. [Conclusions] (#conclusions)
+4. [Conclusions](#conclusions)
 
 
 ### Description
