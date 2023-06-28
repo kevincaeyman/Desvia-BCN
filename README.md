@@ -10,7 +10,7 @@
 2. [Technologies](#technologies)
 3. [Organization](#organization)
 4. [Conclusions](#conclusions)
-
+4. [Contributors](#Contributors)
 
 ### Description
 ***
@@ -21,7 +21,7 @@ The information about the cultural points of interest is obtained from an Open D
 
 ### Screenshot
 ***
-![Image](./assets/)
+![Image](./src/assets/main-img.PNG)
 
 
 ### Technologies
@@ -70,5 +70,20 @@ The Des/Via project demonstrated good organization and coordination during devel
 * Support for multiple languages.
 * Enhancements to the responsive version of the website.
 
+### Contributors
+***
+Meet the Winning Team! Together, we triumphed at Tech4Good Hackathon, bringing our diverse skills and expertise to create something incredible.
+
+* Data Science:
+    * [Laia Gómez Messía](https://www.linkedin.com/in/laiagomezmessia/)
+    * [Jairo Villarroel Rodriguez](https://www.linkedin.com/in/jairo-villarroel-rodriguez/)
+    * [Ivan Ariza Huertas](https://www.linkedin.com/in/ivan-ariza-huertas-94346b263/)
+* Backend
+    * [Dario Rucker](https://www.linkedin.com/in/dariorucker/)
+    * [Carla Blasco Vidal](https://www.linkedin.com/in/carla-blasco-vidal/)
+* Frontend
+    * [Elionor Vendrell](https://www.linkedin.com/in/elionor/)
+    * [Kevin Caeyman](https://www.linkedin.com/in/kevin-caeyman-5950a3109/)
+    * [Marc Morado Paris](https://www.linkedin.com/in/marc-morado/)
 
 ***
